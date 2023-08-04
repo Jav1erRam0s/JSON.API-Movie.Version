@@ -1,18 +1,117 @@
 [
   {
-    "title": "Lasagna de Chocolate",
-    "synopsis": "Base de brownie, crema chantilly, dulce de leche natural, merengue italiano y chips de chocolate.\nPeso estimado 1,6 kg. 20 x 20 cm.",
+    "title": "Senna",
+    "synopsis": "Senna es un documental inglés lanzado en 2010, que aborda la vida íntima y profesional del célebre piloto brasileño de Fórmula 1, Ayrton Senna. Fue dirigida por Asif Kapadia, producida en conjunto por ESPN films y Working title films, y distribuida por Universal Pictures. Tras su lanzamiento recibió excelentes comentarios por parte de la crítica especializada.\nEl film está basado tanto en archivos familiares del fallecido piloto, como también material audiovisual de televisión, brasileña y mundial de la época. Se muestra a Ayrton Senna muy religioso, preocupado por sus compañeros de trabajo, perfeccionista hasta el mínimo detalle, obsesionado con el triunfo, ídolo de millones alrededor del mundo e idolatrado en su país natal.",
     "year": 2010,
-    "genre": ["Drama", "Comedia"],
-    "photo": "https://i.ibb.co/N2TZNNX/ke-reposteria-promo-lasagna-de-chocolate-1.jpg",
-    "download": ""
+    "duration": 106,
+    "genre": ["Bibliográfico"],
+    "photo": "https://i.ibb.co/GFS2Vrk/senna.jpg",
+    "trailer": "https://www.youtube.com/embed/sfosF-ZAbR4",
+    "size": 1.08,
+    "download": "https://terabox.com/s/1RquiLSr5xakix2-ol2l9Eg"
   },
   {
-    "title": "Lasagna de Chocolate",
-    "synopsis": "Base de brownie, crema chantilly, dulce de leche natural, merengue italiano y chips de chocolate.\nPeso estimado 1,6 kg. 20 x 20 cm.",
+    "title": "Deep web",
+    "synopsis": "Deep Web es un documental de 2015 dirigido por Alex Winter, que cubre eventos acontecidos sobre Silk Road, Bitcoin y política de la Internet profunda.\nEl documental cubre el juicio a Ross Ulbricht, creador de Silk Road, e incluye entrevistas con el redactor de Wired Andy Greenberg y el desarrollador Amir Taaki. Deep Web cuenta también con entrevistas de la película Bill & Ted y el entusiasta de Bitcoin Keanu Reeves.\nEl documental se estrenó en el festival South by Southwest de 2015 y el 31 de mayo de 2015 se emitió en la cadena de televisión Epix.",
+    "year": 2015,
+    "duration": 90,
+    "genre": ["Informática", "Drogas"],
+    "photo": "https://i.ibb.co/1XHG5GH/deep-web.jpg",
+    "trailer": "https://www.youtube.com/embed/BvC9oDlT8mM",
+    "size": 244,
+    "download": "https://terabox.com/s/1xIrgeW9cwyBOKHW5fTim5Q"
+  },
+  {
+    "title": "Argentina, el mejor publico del mundo",
+    "synopsis": "Más de 40 bandas internacionales afirman que el mejor público del mundo, es el Argentino.",
+    "year": 2017,
+    "duration": 70,
+    "genre": ["Música"],
+    "photo": "https://i.ibb.co/vkxKTGw/argentina-el-mejor-publico-del-mundo.jpg",
+    "size": 627,
+    "download": "https://terabox.com/s/1WZTE0SOR_OjaG7pQqnhnuw"
+  },
+  {
+    "title": "Capitalismo. Una historia de amor",
+    "synopsis": "Una historia de amor es un documental dirigido y presentado por Michael Moore. En él dirige una mirada crítica hacia el sistema capitalista, la crisis económica mundial originada en Estados Unidos, las medidas de recuperación y Wall Street.",
+    "year": 2009,
+    "duration": 127,
+    "genre": ["Político"],
+    "photo": "https://i.ibb.co/nzFtfxP/capitalismo-una-historia-de-amor.png",
+    "trailer": "https://www.youtube.com/embed/XVh-oI_49Po",
+    "size": 550,
+    "download": "https://terabox.com/s/1s2xKRBxXccGBkhw18Z-q-g"
+  },
+  {
+    "title": "Comprar tirar comprar",
+    "synopsis": "Reveladora historia que explica por qué los productos que compramos duran cada vez menos, detallando la programación de la obsolescencia de los objetos para incrementar el consumo.",
     "year": 2010,
-    "genre": ["Drama", "Comedia"],
-    "photo": "https://i.ibb.co/N2TZNNX/ke-reposteria-promo-lasagna-de-chocolate-1.jpg",
-    "download": ""
+    "duration": 75,
+    "genre": ["Industria"],
+    "photo": "https://i.ibb.co/vjXwYrc/comprar-tirar-comprar.jpg",
+    "trailer": "https://www.youtube.com/embed/Y7R1BIglkiU",
+    "size": 391,
+    "download": "https://terabox.com/s/19HqmPMCxLsU51Uf0c8OYzg"
+  },
+  {
+    "title": "Matadero, lo que la industria carnica esconde",
+    "synopsis": "Con imágenes obtenidas durante una investigación realizada en cincuenta y ocho mataderos de México entre los años 2015 y 2017, Matadero es un documental que nos adentra en el hermético mundo de la industria cárnica.\nLas grabaciones obtenidas visibilizan la explotación y violencia sistemática que padecen los animales en los mataderos y que es mantenida oculta de forma deliberada por la industria cárnica.\nPara llevar a cabo este documental el realizador, quien desde hace años desarrolla el proyecto de denuncia de explotación animal Tras los Muros, ha tenido que utilizar falsas identidades que le han permitido acceder a todos estos lugares.",
+    "year": 2017,
+    "duration": 40,
+    "genre": ["Industria"],
+    "photo": "https://i.ibb.co/RQkcVw1/matadero-lo-que-la-industria-carnica-escorde.jpg",
+    "trailer": "https://www.youtube.com/embed/tYT7NftW2zg",
+    "size": 389,
+    "download": "https://terabox.com/s/1QEzxQGjkLBQ4h1Reb5QTqw"
+  },
+  {
+    "title": "Hackeame si puedes",
+    "synopsis": "Internet es el nuevo campo de batalla mundial en el que los expertos luchan contra los ciberataques. El documental analiza la posibilidad de afectar al mundo a través de un virus informático. Actualmente, la peor pesadilla de los profesionales de la seguridad.",
+    "year": 2016,
+    "duration": 44,
+    "genre": ["Informática"],
+    "photo": "https://i.ibb.co/QJjgHW6/hackeame-si-puedes.jpg",
+    "size": 159,
+    "download": "https://terabox.com/s/1SzhPUPVlnKTX5lGGeNjm_w"
+  },
+  {
+    "title": "Historia secreta de los Hackers",
+    "synopsis": "Un documental imprescindible para conocer de dónde vienen las actuales corrientes que imperan en el mundo de los ordenadores. El origen de la llamada 'piratería informática', del movimiento de software libre en un garaje, la oposición a este movimiento de sujetos como Bill Gates o Steve Jobs desde el principio, o la historia de los precursores de la seguridad informática, como John Draper (el mítico Capitán Crunch), Steve Wozniak o Kevin Mitnick. John Draper (uno de los pioneros del hacking), Steve Wozniak (el co-fundador de Apple Computer) y a Kevin Mitnick (el ciber-criminal más buscado de Estados Unidos), en un recuento de cómo los hackers se convirtieron en héroes y villanos de la nueva era de las computadoras. En este documental nos cuentan como Joybubbles le contó a John Draper el truco sobre el silbato de los cereales Capitán Crunch. Más tarde, John desarrolló la tecnología de las BlueBox, que se la pasó a los fundadores de Apple para que construyeran más.",
+    "year": 2001,
+    "duration": 46,
+    "genre": ["Informática"],
+    "photo": "https://i.ibb.co/Yb2nkR3/historia-secreta-de-los-hackers.png",
+    "size": 114,
+    "download": "https://terabox.com/s/1cjP6VaRvr2UNYft6qfQ6QA"
+  },
+  {
+    "title": "Somos legion la historia de los hackers",
+    "synopsis": "Somos legión cuenta la historia de un grupo de hackers que, en 2012, desafiaron al sistema y comenzaron una revolución digital en línea. Este documental es uno de los más completos y exhaustivos sobre este intrigante episodio de la cultura de internet y de la ciber-seguridad. El relato de cómo surgió el movimiento Anonymous, sus motivaciones y acciones, están muy bien presentados, y su impacto en nuestra sociedad es analizado con lucidez, profundidad y sin caer en la exageración. Sin duda, es una película imprescindible para aquellos interesados en la tecnología y la lucha por la libertad de expresión en línea.",
+    "year": 2012,
+    "duration": 93,
+    "genre": ["Informática"],
+    "photo": "https://i.ibb.co/BLbGtw6/somos-legion-la-historia-de-los-hackers.jpg",
+    "size": 1.09,
+    "download": "https://terabox.com/s/1puPh-n7iVjHdKDxz6qt7iQ"
+  },
+  {
+    "title": "WikiRebels",
+    "synopsis": "WikiRebels es un documental realizado por la televisión pública de Suecia SVT, que efectuó un seguimiento informativo del portavoz, editor y jefe de Wikileaks Julian Assange, siendo por tanto el primer documental sobre el tema.",
+    "year": 2010,
+    "duration": 58,
+    "genre": ["Informática"],
+    "photo": "https://i.ibb.co/DkN5DJj/wikirebels.jpg",
+    "size": 185,
+    "download": "https://terabox.com/s/1Ow5b6bIiQEIAc-ZcyzzN3Q"
+  },
+  {
+    "title": "El Che - Paco Ignacio Taibo II",
+    "synopsis": "El escritor hispano-mexicano Paco Ignacio Taibo II emprende un viaje completo en lo que fue el recorrido de Ernesto Guevara, tambien conocido como el 'Che'.",
+    "year": 2015,
+    "duration": 454,
+    "genre": ["Bibliográfico"],
+    "photo": "https://i.ibb.co/kQK4wZk/el-che-paco-ignacio-taibo-II.jpg",
+    "size": 3.63,
+    "download": "https://terabox.com/s/13arCFlV-bbX5BVTTC94WTw"
   }
 ]
