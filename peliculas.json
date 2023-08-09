@@ -1,5 +1,27 @@
 [
   {
+    "title": "Eduardo manos de tijera",
+    "synopsis": "Un inventor que vive solo en un castillo crea a Edward, un hombre artificial. Sin embargo, el inventor muere antes de acabar su proyecto y deja a Edward con cuchillas en lugar de manos. Después de la muerte de su creador, Edward vive en la oscuridad hasta que conoce a Peg, que se lo lleva a su casa. Pronto Edward será conocido en el vecindario gracias a sus dotes de jardinería y peluquería. Sin embargo, los problemas empiezan cuando Edward se enamora de Kim, la hija de Peg.",
+    "year": 1990,
+    "duration": 105,
+    "genre": ["Fantasía", "Drama", "Romance"],
+    "photo": "https://i.ibb.co/bNvT0kM/eduardo-manos-de-tijera.png",
+    "trailer": "https://www.youtube.com/embed/TBHIO60whNw",
+    "size": 4.25,
+    "download": "https://terabox.com/s/1_9KYLvWFVDk5CG7pGo-GtQ"
+  },
+  {
+    "title": "Diario de una pasion",
+    "synopsis": "En un hogar de retiro un hombre le lee a una mujer, que sufre de Alzheimer, la historia de dos jóvenes de distintas clases sociales que se enamoraron durante la convulsionada década del 40, y de cómo fueron separados por terceros, y por la guerra.",
+    "year": 2004,
+    "duration": 121,
+    "genre": ["Romance", "Drama"],
+    "photo": "https://i.ibb.co/T0V0KkK/diario-de-una-pasion.jpg",
+    "trailer": "https://www.youtube.com/embed/BjJcYdEOI0k",
+    "size": 4.22,
+    "download": "https://terabox.com/s/1d74k_A9F3HjggEna86oG5A"
+  },
+  {
     "title": "Diarios de motocicleta",
     "synopsis": "Diarios de motocicleta es una película biográfica basada en los diarios de viaje del Che Guevara y Alberto Granado, dirigida por Walter Salles y protagonizada por Gael García Bernal y Rodrigo de la Serna. Fue ganadora del Oscar a la Mejor Canción Original en 2005 por Al otro lado del río, de Jorge Drexler, junto a 21 premios internacionales más.\nLa película relata el viaje que realizaron El Che y Granado a través de América del Sur, en 1952. Durante el desarrollo del mismo, Guevara se descubre a sí mismo transformado por sus observaciones de la vida de los empobrecidos campesinos indígenas. A través de los personajes que encuentran en el camino aprenden sobre las injusticias a las que los pobres se enfrentan y viven situaciones de distinto tipo, desde las más alegres a las más tristes. La experiencia les presenta a Guevara y Granado una verdadera imagen de la identidad latinoamericana y cambia el curso de sus vidas para siempre.",
     "year": 2004,
@@ -48,7 +70,7 @@
     "synopsis": "William Wallace, un guerrero escocés del siglo XIII lidera una rebelión contra el rey inglés Eduardo I después de que su esposa es asesinada por soldados ingleses.",
     "year": 1995,
     "duration": 178,
-    "genre": ["Drama histórico", "Acción", "Aventura"],
+    "genre": ["Drama", "Acción", "Aventura"],
     "photo": "https://i.ibb.co/jW4pwtK/corazon-valiente.jpg",
     "trailer": "https://www.youtube.com/embed/MEFYe_s0jIM",
     "size": 4.57,
@@ -81,13 +103,7 @@
     "synopsis": "Evan Treborn es un joven que se está esforzando por superar unos dolorosos recuerdos de su infancia. Un día descubre una técnica que le permite viajar atrás en el tiempo para poder cambiar el curso de su traumática historia. Sin embargo, también descubre que cualquier mínimo cambio en el pasado puede traer grandes cambios a su futuro.",
     "year": 2004,
     "duration": 120,
-    "genre": [
-      "Ciencia ficción",
-      "Fantasía",
-      "Cine policíaco de suspenso",
-      "Drama",
-      "Suspenso psicológico"
-    ],
+    "genre": ["Ciencia ficción", "Fantasía", "Drama", "Suspenso"],
     "photo": "https://i.ibb.co/2y2mdVr/el-efecto-mariposa.jpg",
     "trailer": "https://www.youtube.com/embed/B8_dgqfPXFg",
     "size": 3.79,
