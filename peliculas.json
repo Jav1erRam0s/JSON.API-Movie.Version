@@ -1,5 +1,38 @@
 [
   {
+    "title": "Camino salvaje",
+    "synopsis": "Un joven renuncia a todo, desde sus ahorros a los lazos con su familia, para vivir solo en plena naturaleza.",
+    "year": 2007,
+    "duration": 148,
+    "genre": ["Drama", "Aventura"],
+    "photo": "https://i.ibb.co/Z8bppGQ/camino-salvaje.png",
+    "trailer": "https://www.youtube.com/embed/XZG1FzyB8DI",
+    "size": 3.90,
+    "download": "https://terabox.com/s/1YgGm2nvxdysLEmre8evzzg"
+  },
+  {
+    "title": "Fluke, un tiro de suerte",
+    "synopsis": "Un hombre se reencarna en un perro después de un fatal accidente y trata de encontrar a su antigua familia.",
+    "year": 1995,
+    "duration": 96,
+    "genre": ["Drama", "Infantil"],
+    "photo": "https://i.ibb.co/mD9y6GQ/fluke-un-tiro-de-suerte.jpg",
+    "trailer": "https://www.youtube.com/embed/4iQp5RXzvwk",
+    "size": 3.16,
+    "download": "https://terabox.com/s/1qkdB1I-VNF_sy05h1GXvnw"
+  },
+  {
+    "title": "El club de los poetas muertos",
+    "synopsis": "-",
+    "year": 1989,
+    "duration": 128,
+    "genre": ["Drama", "Adolescencia"],
+    "photo": "https://i.ibb.co/GxtkdX4/el-club-de-los-poetas-muertos.jpg",
+    "trailer": "https://www.youtube.com/embed/5dMmYA4MtcE",
+    "size": 2.02,
+    "download": "https://terabox.com/s/1ImQ6P_S9GS72B1D3elSFNA"
+  },
+  {
     "title": "Prohibido pasar, hercules vigila",
     "synopsis": "El líder de la pandilla de un barrio recluta al chico nuevo para jugar al béisbol en el campo de arena cercano. Es el comienzo de un verano mágico de béisbol, aventuras salvajes, primeros besos y confrontaciones temibles.",
     "year": 1993,
@@ -21,8 +54,7 @@
     "size": 2.29,
     "download": "https://terabox.com/s/1m2zesmQ6NyCEQjpZZl8TcQ"
   },
-  {
-    "title": "En busca de la felicidad",
+  {    "title": "En busca de la felicidad",
     "synopsis": "La vida es una lucha para Chris Gardner. Expulsado de su apartamento, él y su joven hijo se encuentran solos sin ningún lugar a donde ir. A pesar de que Chris eventualmente consigue trabajo como interno en una prestigiada firma financiera, la posición no le da dinero. El dúo debe vivir en un albergue y enfrentar muchas dificultades, pero Chris no se da por vencido y lucha por conseguir una vida mejor para él y su hijo.",
     "year": 2006,
     "duration": 117,
