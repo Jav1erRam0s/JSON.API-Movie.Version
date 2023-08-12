@@ -258,5 +258,27 @@
     "trailer": "https://www.youtube.com/embed/nqlROp1TIgo",
     "size": 3.06,
     "download": "https://terabox.com/s/1Tf-O7hKe4eFZhzoStdzLXA"
+  },
+  {
+    "title": "La maquina del tiempo",
+    "synopsis": "Un científico inventa una máquina para viajar a través del tiempo. En un viaje experimental llega al año 802.701 y encuentra la tierra habitada por los Eloi, pacíficos y ociosos. El Viajero del Tiempo deduce que están tan avanzados que unas máquinas deben de trabajar por ellos.",
+    "year": 2002,
+    "duration": 96,
+    "genre": ["Ciencia ficción"],
+    "photo": "https://i.ibb.co/Pmsffpq/la-maquina-del-tiempo.png",
+    "trailer": "https://www.youtube.com/embed/aCmXE3qNd_o",
+    "size": 2.15,
+    "download": "https://terabox.com/s/1b0DH0wMUAeYqs0znreHr7w"
+  },
+  {
+    "title": "La naranja mecanica",
+    "synopsis": "Alex es un joven muy agresivo que tiene dos pasiones: la violencia desaforada y Beethoven. Es el jefe de la banda de los drugos, que dan rienda suelta a sus instintos más salvajes aterrorizando a la población.",
+    "year": 1971,
+    "duration": 136,
+    "genre": ["Drama", "Crimen", "Culto"],
+    "photo": "https://i.ibb.co/jb1qGMS/la-naranja-mecanica.png",
+    "trailer": "https://www.youtube.com/embed/A1eC4pG8rC0",
+    "size": 3.81,
+    "download": "https://terabox.com/s/1ZLadacO8BruEcIWqcqNupA"
   }
 ]
