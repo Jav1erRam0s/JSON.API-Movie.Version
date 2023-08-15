@@ -138,7 +138,7 @@
     "genre": ["Drama", "Aventura"],
     "photo": "https://i.ibb.co/Z8bppGQ/camino-salvaje.png",
     "trailer": "https://www.youtube.com/embed/XZG1FzyB8DI",
-    "size": 3.90,
+    "size": 3.9,
     "download": "https://terabox.com/s/1YgGm2nvxdysLEmre8evzzg"
   },
   {
@@ -183,7 +183,8 @@
     "size": 2.29,
     "download": "https://terabox.com/s/1m2zesmQ6NyCEQjpZZl8TcQ"
   },
-  {    "title": "En busca de la felicidad",
+  {
+    "title": "En busca de la felicidad",
     "synopsis": "La vida es una lucha para Chris Gardner. Expulsado de su apartamento, él y su joven hijo se encuentran solos sin ningún lugar a donde ir. A pesar de que Chris eventualmente consigue trabajo como interno en una prestigiada firma financiera, la posición no le da dinero. El dúo debe vivir en un albergue y enfrentar muchas dificultades, pero Chris no se da por vencido y lucha por conseguir una vida mejor para él y su hijo.",
     "year": 2006,
     "duration": 117,
@@ -280,5 +281,148 @@
     "trailer": "https://www.youtube.com/embed/A1eC4pG8rC0",
     "size": 3.81,
     "download": "https://terabox.com/s/1ZLadacO8BruEcIWqcqNupA"
+  },
+  {
+    "title": "Requiem por un sueño",
+    "synopsis": "-",
+    "year": 1,
+    "duration": 1,
+    "genre": ["-"],
+    "photo": "https://i.ibb.co/YjjmMcy/requiem-por-un-sue-o.png",
+    "trailer": "-",
+    "size": 2.82,
+    "download": "https://terabox.com/s/1R83HEmqjMMAGWwaZTmDYpA"
+  },
+  {
+    "title": "Realmente amor",
+    "synopsis": "-",
+    "year": 1,
+    "duration": 1,
+    "genre": ["-"],
+    "photo": "https://i.ibb.co/grmRzvF/realmente-amor.jpg",
+    "trailer": "-",
+    "size": 3.66,
+    "download": "https://terabox.com/s/1Dh_Vx66tSBQSQxJU02XhDA"
+  },
+  {
+    "title": "Pearl harbor",
+    "synopsis": "-",
+    "year": 1,
+    "duration": 1,
+    "genre": ["-"],
+    "photo": "https://i.ibb.co/KK4YNXt/pearl-harbor.png",
+    "trailer": "-",
+    "size": 1,
+    "download": "https://terabox.com/s/13VjPXysT1e6Q7Putn1FXsw"
+  },
+  {
+    "title": "V de venganza",
+    "synopsis": "-",
+    "year": 1,
+    "duration": 1,
+    "genre": ["-"],
+    "photo": "https://i.ibb.co/PwYSPwq/v-de-venganza.jpg",
+    "trailer": "-",
+    "size": 1,
+    "download": "-"
+  },
+  {
+    "title": "Sueños de libertad",
+    "synopsis": "-",
+    "year": 1,
+    "duration": 1,
+    "genre": ["-"],
+    "photo": "https://i.ibb.co/nkMXjgR/sue-os-de-libertad.png",
+    "trailer": "-",
+    "size": 1,
+    "download": "-"
+  },
+  {
+    "title": "Siempre el mismo dia",
+    "synopsis": "-",
+    "year": 1,
+    "duration": 1,
+    "genre": ["-"],
+    "photo": "https://i.ibb.co/LhDzfC7/siempre-el-mismo-dia.jpg",
+    "trailer": "-",
+    "size": 1,
+    "download": "-"
+  },
+  {
+    "title": "Señales de amor",
+    "synopsis": "-",
+    "year": 1,
+    "duration": 1,
+    "genre": ["-"],
+    "photo": "https://i.ibb.co/WxwsX1z/se-ales-de-amor.jpg",
+    "trailer": "-",
+    "size": 1,
+    "download": "-"
+  },
+  {
+    "title": "Muy parecido al amor",
+    "synopsis": "-",
+    "year": 1,
+    "duration": 1,
+    "genre": ["-"],
+    "photo": "https://i.ibb.co/cFfkhS4/muy-parecido-al-amor.jpg",
+    "trailer": "-",
+    "size": 1,
+    "download": "-"
+  },
+  {
+    "title": "Los hijos de la calle",
+    "synopsis": "-",
+    "year": 1,
+    "duration": 1,
+    "genre": ["-"],
+    "photo": "https://i.ibb.co/cg4fTcB/los-hijos-de-la-calle.jpg",
+    "trailer": "-",
+    "size": 1,
+    "download": "-"
+  },
+  {
+    "title": "Los amos de dogtown",
+    "synopsis": "-",
+    "year": 1,
+    "duration": 1,
+    "genre": ["-"],
+    "photo": "https://i.ibb.co/42W4fhm/los-amos-de-dogtown.jpg",
+    "trailer": "-",
+    "size": 1,
+    "download": "-"
+  },
+  {
+    "title": "Leon, el profesional",
+    "synopsis": "-",
+    "year": 1,
+    "duration": 1,
+    "genre": ["-"],
+    "photo": "https://i.ibb.co/g6D3myx/leon-el-profesional.jpg",
+    "trailer": "-",
+    "size": 1,
+    "download": "-"
+  },
+  {
+    "title": "La vecina de al lado",
+    "synopsis": "-",
+    "year": 1,
+    "duration": 1,
+    "genre": ["-"],
+    "photo": "https://i.ibb.co/hKqNPGZ/la-vecina-de-al-lado.png",
+    "trailer": "-",
+    "size": 1,
+    "download": "-"
+  },
+  {
+    "title": "Forrest gump",
+    "synopsis": "-",
+    "year": 1,
+    "duration": 1,
+    "genre": ["-"],
+    "photo": "https://i.ibb.co/mqPcRdp/forrest-gump.jpg",
+    "trailer": "-",
+    "size": 1,
+    "download": "-"
   }
-]
+] 
