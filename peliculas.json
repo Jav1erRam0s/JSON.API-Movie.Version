@@ -138,7 +138,7 @@
     "genre": ["Drama", "Aventura"],
     "photo": "https://i.ibb.co/Z8bppGQ/camino-salvaje.png",
     "trailer": "https://www.youtube.com/embed/XZG1FzyB8DI",
-    "size": 3.90,
+    "size": 3.9,
     "download": "https://terabox.com/s/1YgGm2nvxdysLEmre8evzzg"
   },
   {
@@ -183,7 +183,8 @@
     "size": 2.29,
     "download": "https://terabox.com/s/1m2zesmQ6NyCEQjpZZl8TcQ"
   },
-  {    "title": "En busca de la felicidad",
+  {
+    "title": "En busca de la felicidad",
     "synopsis": "La vida es una lucha para Chris Gardner. Expulsado de su apartamento, él y su joven hijo se encuentran solos sin ningún lugar a donde ir. A pesar de que Chris eventualmente consigue trabajo como interno en una prestigiada firma financiera, la posición no le da dinero. El dúo debe vivir en un albergue y enfrentar muchas dificultades, pero Chris no se da por vencido y lucha por conseguir una vida mejor para él y su hijo.",
     "year": 2006,
     "duration": 117,
@@ -258,5 +259,192 @@
     "trailer": "https://www.youtube.com/embed/nqlROp1TIgo",
     "size": 3.06,
     "download": "https://terabox.com/s/1Tf-O7hKe4eFZhzoStdzLXA"
+  },
+  {
+    "title": "La maquina del tiempo",
+    "synopsis": "Un científico inventa una máquina para viajar a través del tiempo. En un viaje experimental llega al año 802.701 y encuentra la tierra habitada por los Eloi, pacíficos y ociosos. El Viajero del Tiempo deduce que están tan avanzados que unas máquinas deben de trabajar por ellos.",
+    "year": 2002,
+    "duration": 96,
+    "genre": ["Ciencia ficción"],
+    "photo": "https://i.ibb.co/Pmsffpq/la-maquina-del-tiempo.png",
+    "trailer": "https://www.youtube.com/embed/aCmXE3qNd_o",
+    "size": 2.15,
+    "download": "https://terabox.com/s/1b0DH0wMUAeYqs0znreHr7w"
+  },
+  {
+    "title": "La naranja mecanica",
+    "synopsis": "Alex es un joven muy agresivo que tiene dos pasiones: la violencia desaforada y Beethoven. Es el jefe de la banda de los drugos, que dan rienda suelta a sus instintos más salvajes aterrorizando a la población.",
+    "year": 1971,
+    "duration": 136,
+    "genre": ["Drama", "Crimen", "Culto"],
+    "photo": "https://i.ibb.co/jb1qGMS/la-naranja-mecanica.png",
+    "trailer": "https://www.youtube.com/embed/A1eC4pG8rC0",
+    "size": 3.81,
+    "download": "https://terabox.com/s/1ZLadacO8BruEcIWqcqNupA"
+  },
+  {
+    "title": "Requiem por un sueño",
+    "synopsis": "Harry y su madre tienen sueños muy distintos: ella está permanentemente a dieta esperando el día en que pueda participar en su concurso televisivo preferido; la ambición de Harry y su novia Marion (Jennifer Connelly) es hacerse ricos vendiendo droga y utilizar las ganancias para abrir un negocio propio, pero nunca tienen el dinero suficiente para ello. A pesar de todo, Harry y Marion no se resignan y harán lo inimaginable para conseguir la vida que anhelan.",
+    "year": 2000,
+    "duration": 102,
+    "genre": ["Culto", "Drogas"],
+    "photo": "https://i.ibb.co/YjjmMcy/requiem-por-un-sue-o.png",
+    "trailer": "https://www.youtube.com/embed/QBwzN4v1vA0",
+    "size": 2.82,
+    "download": "https://terabox.com/s/1R83HEmqjMMAGWwaZTmDYpA"
+  },
+  {
+    "title": "Realmente amor",
+    "synopsis": "Las vidas de varias parejas se entrecruzan en Londres, poco antes de las fiestas de Navidad, con resultados románticos, divertidos y agridulces.",
+    "year": 2003,
+    "duration": 129,
+    "genre": ["Romance", "Comedia"],
+    "photo": "https://i.ibb.co/grmRzvF/realmente-amor.jpg",
+    "trailer": "https://www.youtube.com/embed/1_5jNsAihrQ",
+    "size": 3.66,
+    "download": "https://terabox.com/s/1Dh_Vx66tSBQSQxJU02XhDA"
+  },
+  {
+    "title": "Pearl harbor",
+    "synopsis": "Rafe y Danny, dos pilotos que sobrevivieron al bombardeo de Pearl Harbor, amigos desde la infancia y luego rivales por el amor de una mujer, deben superar sus diferencias y unirse cuando el gobierno los envía a una misión secreta.",
+    "year": 2001,
+    "duration": 183,
+    "genre": ["Bélico", "Acción"],
+    "photo": "https://i.ibb.co/KK4YNXt/pearl-harbor.png",
+    "trailer": "https://www.youtube.com/embed/zf3KAiimeUg",
+    "size": 4.82,
+    "download": "https://terabox.com/s/13VjPXysT1e6Q7Putn1FXsw"
+  },
+  {
+    "title": "V de venganza",
+    "synopsis": "Historia de un futuro ficticio donde Inglaterra es un estado fascista y totalitario. Evey, una joven proveniente de la clase trabajadora, es rescatada por 'V', un misterioso enmascarado que busca la destrucción del gobierno cruel y corrupto, y la libertad del pueblo.",
+    "year": 2006,
+    "duration": 132,
+    "genre": ["Ciencia ficción", "Acción"],
+    "photo": "https://i.ibb.co/PwYSPwq/v-de-venganza.jpg",
+    "trailer": "https://www.youtube.com/embed/lSA7mAHolAw",
+    "size": 3.33,
+    "download": "https://terabox.com/s/1FOj9-l3Lz1lZxr0srRX3XQ"
+  },
+  {
+    "title": "Sueños de libertad",
+    "synopsis": "Andrew Dufresne es un hombre inocente que es acusado del asesinato de su mujer. Tras ser condenado a cadena perpetua, es enviado a la cárcel de Shawshank, en Maine. Con el paso de los años, Andrew conseguirá ganarse la confianza del director del centro y el respeto de los otros convictos, especialmente de Red, el jefe de la mafia.",
+    "year": 1994,
+    "duration": 142,
+    "genre": ["Drama", "Crimen"],
+    "photo": "https://i.ibb.co/nkMXjgR/sue-os-de-libertad.png",
+    "trailer": "https://www.youtube.com/embed/ldiSyzDVbEY",
+    "size": 2.96,
+    "download": "https://terabox.com/s/17lWOtzbWz-eKn6lJ5nWTnQ"
+  },
+  {
+    "title": "Siempre el mismo dia",
+    "synopsis": "Emma y Dexter se conocen el día de su graduación universitaria, un 15 de julio. Ella es una chica idealista y él un joven rico con ganas de comerse el mundo. Durante 20 años, cada 15 de julio, se muestra su vida cotidiana y su amistad indestructible.",
+    "year": 2011,
+    "duration": 107,
+    "genre": ["Drama", "Romance"],
+    "photo": "https://i.ibb.co/LhDzfC7/siempre-el-mismo-dia.jpg",
+    "trailer": "https://www.youtube.com/embed/q3_NWsdPUdc",
+    "size": 3.72,
+    "download": "https://terabox.com/s/1PLMWaJeEOg-bVRYyh9q_7A"
+  },
+  {
+    "title": "Señales de amor",
+    "synopsis": "Luego de haber tentado al destino, dos amantes predestinados a estar juntos regresan a Nueva York para reencontrarse una vez más.",
+    "year": 2001,
+    "duration": 91,
+    "genre": ["Romance"],
+    "photo": "https://i.ibb.co/WxwsX1z/se-ales-de-amor.jpg",
+    "trailer": "https://www.youtube.com/embed/ePU2Ux9JIMM",
+    "size": 1.79,
+    "download": "https://terabox.com/s/1TGIqMoouAVzNq_hXRS3GZw"
+  },
+  {
+    "title": "Muy parecido al amor",
+    "synopsis": "Oliver y Emily se conocen en un vuelo y conectan en seguida. Son muy diferentes pero a pesar de que su romance nunca funcionó, se han seguido viendo durante años. ¿Es sólo amistad o hay algo más?",
+    "year": 2005,
+    "duration": 107,
+    "genre": ["Romance", "Comedia"],
+    "photo": "https://i.ibb.co/cFfkhS4/muy-parecido-al-amor.jpg",
+    "trailer": "https://www.youtube.com/embed/MRPr34vEbC8",
+    "size": 2.84,
+    "download": "https://terabox.com/s/1mAXmrQGJ4AdQU_OjVohw3A"
+  },
+  {
+    "title": "Amigos con derechos",
+    "synopsis": "Los amigos de toda la vida Emma y Adam llevan su relación al siguiente nivel al tener sexo. Con el temor de arruinar su amistad, los dos nuevos amantes hacen un pacto para mantener las cosas puramente físicas, sin peleas, sin celos, ni expectativas. Emma y Adam se comprometen a hacer lo que quieran, en donde quieran, mientras no se enamoren. La pregunta es ¿Quién caerá primero?",
+    "year": 2011,
+    "duration": 110,
+    "genre": ["Romance", "Comedia"],
+    "photo": "https://i.ibb.co/BTfxd0w/amigos-con-derechos.png",
+    "trailer": "https://www.youtube.com/embed/idIqiJQ5Yzc",
+    "size": 3.79,
+    "download": "https://terabox.com/s/1xE2i514Q9-P5xCNhWuvJww"
+  },
+  {
+    "title": "Los hijos de la calle",
+    "synopsis": "Después de que una broma salga terriblemente mal, un grupo de chicos es enviado a un centro de menores donde son vejados. Diez años después tendrán la oportunidad de vengarse.",
+    "year": 1996,
+    "duration": 147,
+    "genre": ["Drama", "Crimen"],
+    "photo": "https://i.ibb.co/cg4fTcB/los-hijos-de-la-calle.jpg",
+    "trailer": "https://www.youtube.com/embed/sVdiN_4gBWk",
+    "size": 3.78,
+    "download": "https://terabox.com/s/1Q9saoSeuUCtE5ut4scOrqQ"
+  },
+  {
+    "title": "Los amos de dogtown",
+    "synopsis": "En la década de los 70, un grupo de surfistas empieza a usar las piscinas vacías de sus casas para montar en patineta. De este modo, y sin saberlo, dan inicio a un nuevo deporte extremo.",
+    "year": 2005,
+    "duration": 107,
+    "genre": ["Drama", "Adolescencia"],
+    "photo": "https://i.ibb.co/42W4fhm/los-amos-de-dogtown.jpg",
+    "trailer": "https://www.youtube.com/embed/AUjR4G4yNpY",
+    "size": 4.35,
+    "download": "https://terabox.com/s/1g91ydv6wolT6fmVmEL9Zzw"
+  },
+  {
+    "title": "La vecina de al lado",
+    "synopsis": "Matthew, un ambicioso joven que aspira a ser político, se enamora de su vecina. Lo que el joven no sabe es que ella es una famosa actriz porno.",
+    "year": 2004,
+    "duration": 108,
+    "genre": ["Romance", "Comedia"],
+    "photo": "https://i.ibb.co/hKqNPGZ/la-vecina-de-al-lado.png",
+    "trailer": "https://www.youtube.com/embed/SBTM-55U_KA",
+    "size": 3.09,
+    "download": "https://terabox.com/s/12i49WV-OIDNVAS3VxqWxAw"
+  },
+  {
+    "title": "Leon, el profesional",
+    "synopsis": "Mathilda es una niña que no se lleva bien con su familia, excepto con su hermano pequeño. Su padre es un narcotraficante que hace negocios con Stan, un corrupto agente de la D.E.A. Un día Stan mata a su familia y Mathilda se refugia en casa de Léon, un solitario y misterioso vecino que resulta ser un asesino a sueldo, pero hará un pacto con él: ella se encargará de las tareas domésticas y le enseñará a leer a Léon y éste le enseñará a disparar para poder vengarse de la muerte de su hermano.",
+    "year": 1994,
+    "duration": 110,
+    "genre": ["Drama", "Acción"],
+    "photo": "https://i.ibb.co/g6D3myx/leon-el-profesional.jpg",
+    "trailer": "https://www.youtube.com/embed/aNQqoExfQsg",
+    "size": 5.03,
+    "download": "https://terabox.com/s/1AJr79-9JKnZzOQ6bJRmivQ"
+  },
+  {
+    "title": "Forrest gump",
+    "synopsis": "Sentado en un banco en Savannah, Georgia, Forrest Gump espera al autobús. Mientras éste tarda en llegar, el joven cuenta su vida a las personas que se sientan a esperar con él. Aunque sufre un pequeño retraso mental, esto no le impide hacer cosas maravillosas. Sin entender del todo lo que sucede a su alrededor, Forrest toma partido en los eventos más importantes de la historia de los Estados Unidos.",
+    "year": 1994,
+    "duration": 142,
+    "genre": ["Drama", "Romance"],
+    "photo": "https://i.ibb.co/mqPcRdp/forrest-gump.jpg",
+    "trailer": "https://www.youtube.com/embed/GIs2gpWpBiQ",
+    "size": 3.74,
+    "download": "https://terabox.com/s/1tSsmHFFRrfzCNzdkdHh2hQ"
+  },
+  {
+    "title": "The truman show",
+    "synopsis": "Truman Burbank, un feliz agente de seguros, cree llevar una vida normal, pero no tiene idea de que las cámaras lo graban las 24 horas y que todo lo que hace se ve en televisión.",
+    "year": 1998,
+    "duration": 103,
+    "genre": ["Ciencia ficción", "Drama"],
+    "photo": "https://i.ibb.co/0YSd19G/the-truman-show.jpg",
+    "trailer": "https://www.youtube.com/embed/3F8H-QZKTsc",
+    "size": 3.81,
+    "download": "https://terabox.com/s/1L-9aa5uGRZXZjQZoA0Gg-A"
   }
 ]

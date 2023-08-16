@@ -135,5 +135,26 @@
     "photo": "https://i.ibb.co/kQK4wZk/el-che-paco-ignacio-taibo-II.jpg",
     "size": 3.63,
     "download": "https://terabox.com/s/13arCFlV-bbX5BVTTC94WTw"
+  },
+  {
+    "title": "Agrotoxicos",
+    "synopsis": "La causa de las familias misioneras envenenadas por el uso de agrotóxicos llegó a la prensa internacional. Un informe del programa televisivo Investigación Límite, de América ganó la edición 2012 del Festival de TV de Nueva York. El programa es conducido por la periodista Valentina Lovell, varias veces amenazada por sus investigaciones en la localidad de El Soberbio, donde residía hasta hace poco tiempo.\nEnfrentado a otras seis producciones internacionales, tres de ellas de la cadena CNN para los Estados Unidos, y otras tres de origen sueco, irlandés y alemán, el ciclo argentino Investigación límite (lunes a las 22, por América) resulto ganador de la edición 2012 del Festival de Nueva York.\nEstos premios, que se entregan el 17 de abril en Las Vegas, reconocen a los productos de cine y TV en más de 40 países del mundo. Y este programa de la productora Toma Serena se alzó con el galardón de oro en la categoría Best Investigative Report.\nLos informes de Investigación límite que más impactaron al jurado del Festival están relacionados con la contaminación, la utilización de agrotóxicos y sus irreversibles consecuencias en los bebés nacidos en Misiones y otras las comunidades próximas a las zonas de cultivo.",
+    "year": 2012,
+    "duration": 165,
+    "genre": ["Agroquímicos", "Contaminación", "Investigación"],
+    "photo": "https://i.ibb.co/KjjDbmX/agrotoxicos.jpg",
+    "size": 648,
+    "download": "https://terabox.com/s/1fTvN02YY5vYTDpOyBBEvwA"
+  },
+  {
+    "title": "El mundo segun Monsanto",
+    "synopsis": "El mundo según Monsanto, es un documental francés de 2008 de Marie Monique Robin sobre la multinacional Monsanto, la historia de la compañía y sus productos comerciales: como el PCB, los OGM, el Agente Naranja, la Hormona bovina o Somatotropina bovina, y su popular Roundup (Glifosato).",
+    "year": 2008,
+    "duration": 108,
+    "genre": ["Agroquímicos", "Contaminación", "Investigación"],
+    "photo": "https://i.ibb.co/cNXF02x/el-mundo-segun-monsanto.jpg",
+    "trailer": "https://www.youtube.com/embed/vAUx2pNRmFM",
+    "size": 254,
+    "download": "https://terabox.com/s/1j-cE4CM0L6LN6m1pwzmuVw"
   }
 ]
