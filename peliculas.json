@@ -1,5 +1,60 @@
 [
   {
+    "title": "Como si fuera la primera vez",
+    "synopsis": "Henry, biólogo marino, no tiene la mínima intención de comprometerse con nadie, hasta que conoce a Lucy, la chica de sus sueños. Sin embargo, hay un pequeño problema, la joven se levanta cada mañana sin recordar absolutamente nada del día anterior.",
+    "year": 2004,
+    "duration": 99,
+    "genre": ["Romance", "Comedia"],
+    "photo": "https://i.ibb.co/Gxwd1xp/como-si-fuera-la-primera-vez.jpg",
+    "trailer": "https://www.youtube.com/embed/dFaEbdUd99A",
+    "size": 3.49,
+    "download": "https://terabox.com/s/1GDz2hjHovpBHEw4lk4xhOg"
+  },
+  {
+    "title": "El gigante de hierro",
+    "synopsis": "En 1957 un extraño gigante de hierro cae inesperadamente del cielo siendo descubierto por un niño que le asiste tras el impacto e inicia con él una relación de profunda amistad enseñándole los modos y costumbres de los seres humanos. Desgraciadamente, poco después descubrirán que alguien más sospecha de la existencia de la criatura y tendrán que huir del vertedero de chatarra donde se han refugiado. El implacable acoso del agente federal Kent Mansley pondrá nervioso al extraterrestre, convirtiéndole en una amenaza para quienes le rodean, desatando el miedo entre la población.",
+    "year": 1999,
+    "duration": 86,
+    "genre": ["Infantil", "Aventura"],
+    "photo": "https://i.ibb.co/QkbqvKN/el-gigante-de-hierro.jpg",
+    "trailer": "https://www.youtube.com/embed/obLtyj8hfFk",
+    "size": 3.88,
+    "download": "https://terabox.com/s/1kbDlZXWj0weQ5IU-L8KNaw"
+  },
+  {
+    "title": "El gladiador",
+    "synopsis": "El general romano Máximo es el soporte más leal del emperador Marco Aurelio, que lo ha conducido de victoria en victoria. Sin embargo, Cómodo, el hijo de Marco Aurelio, está celoso del prestigio de Máximo y aún más del amor que su padre siente por él. Cuando Cómodo llega al poder ordena el arresto del general y su asesinato. Máximo escapa de sus asesinos, pero no puede evitar la muerte de su familia. Entonces se convierte en gladiador para llevar a cabo su venganza.",
+    "year": 2000,
+    "duration": 155,
+    "genre": ["Aventura", "Acción"],
+    "photo": "https://i.ibb.co/1m9BNM7/el-gladiador.jpg",
+    "trailer": "https://www.youtube.com/embed/uvbavW31adA",
+    "size": 3.71,
+    "download": "https://terabox.com/s/1mH54xpc6QAe3Q3t0v4duKg"
+  },
+  {
+    "title": "El quinto elemento",
+    "synopsis": "La historia del director Luc Besson, sobre un taxista del futuro que tropieza con la mujer que puede salvar al mundo. Cada 5.000 años se abre una puerta entre dos dimensiones. En una dimensión existe el Universo y la vida y en la otra un elemento que no está hecho ni de tierra, ni de fuego, ni de aire, ni de agua, sino que es una anti-energía, la anti-vida: el quinto elemento.",
+    "year": 1997,
+    "duration": 126,
+    "genre": ["Ciencia ficción", "Acción"],
+    "photo": "https://i.ibb.co/x51qtp7/el-quinto-elemento.jpg",
+    "trailer": "https://www.youtube.com/embed/x6kyh6c-BC8",
+    "size": 2.81,
+    "download": "https://terabox.com/s/1WXdRHI9_vEyrHTP5Z66-Zg"
+  },
+  {
+    "title": "Escuela de rock",
+    "synopsis": "Dewey Finn es un guitarrista con delirios de grandeza que es expulsado de su banda. Decide suplantar la identidad de un profesor sustituto para dar clase a alumnos de quinto a los que intentará enseñarles 'rock & roll de alto voltaje'.",
+    "year": 2003,
+    "duration": 109,
+    "genre": ["Comedia", "Música"],
+    "photo": "https://i.ibb.co/Xp0d2GV/escuela-de-rock.jpg",
+    "trailer": "https://www.youtube.com/embed/TExoc0MG4I4",
+    "size": 3.75,
+    "download": "https://terabox.com/s/185c76enjrdPQiq95MZEHdQ"
+  },
+  {
     "title": "Sangre por sangre",
     "synopsis": "Historia de tres primos que crecen como hermanos entre la violencia de las bandas del Este de Los Ángeles entre los años 70 y los 90.",
     "year": 1993,
