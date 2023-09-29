@@ -1,5 +1,60 @@
 [
   {
+    "title": "Un ninja en beverly hills",
+    "synopsis": "El clan de los ninjas encuentra a un niño blanco en la costa del Pacífico y lo adopta pensando que se trata de un enviado. Sin embargo no es así, Haru es el más torpe del universo, es gordo, loco y avergüenza a los ninjas donde quiera que van.",
+    "year": 1997,
+    "duration": 89,
+    "genre": ["Comedia"],
+    "photo": "https://i.ibb.co/KrfZsRS/un-ninja-en-beverly-hills.jpg",
+    "trailer": "https://www.youtube.com/embed/XSwpv54VgK8",
+    "size": 2.82,
+    "download": "https://terabox.com/s/1kurWkQObn0fJMS8NC1r8wg"
+  },
+  {
+    "title": "Volver al futuro I",
+    "synopsis": "El adolescente Marty McFly es amigo de Doc, un científico que ha construido una máquina del tiempo. Cuando los dos prueban el artefacto, un error fortuito hace que Marty llegue a 1955, año en el que sus padres iban al instituto y todavía no se habían conocido. Después de impedir su primer encuentro, Marty deberá conseguir que se conozcan y se enamoren, de lo contrario su existencia no sería posible.",
+    "year": 1985,
+    "duration": 116,
+    "genre": ["Ciencia ficción"],
+    "photo": "https://i.ibb.co/7YmhpXf/volver-al-futuro-i.png",
+    "trailer": "https://www.youtube.com/embed/qvsgGtivCgs",
+    "size": 4.23,
+    "download": "https://terabox.com/s/19fTEwLXTBibZAVWxUNs_Yg"
+  },
+  {
+    "title": "Volver al futuro II",
+    "synopsis": "Doc vuelve a aparecer con una máquina del tiempo mucho más modernizada y le pide a Marty y a su novia que le acompañen al futuro. En el Hill Valley de 2015 deberán solucionar un problema con la ley que tendrá uno de los futuros hijos de Marty y Jenny. En el futuro, Biff Tannen roba la máquina del tiempo y vuelve al pasado para darle a su hijo un libro con estadísticas deportivas para poder ganar una enorme fortuna en las apuestas. Marty y Doc tendrán que parar la posible catástrofe del destino.",
+    "year": 1989,
+    "duration": 108,
+    "genre": ["Ciencia ficción"],
+    "photo": "https://i.ibb.co/Cmt93cc/volver-al-futuro-ii.png",
+    "trailer": "https://www.youtube.com/embed/_cBq0XaIUZA",
+    "size": 3.92,
+    "download": "https://terabox.com/s/1EbsomPjkMFxGsWbsndLifw"
+  },
+  {
+    "title": "Volver al futuro III",
+    "synopsis": "Marty McFly sigue en 1955 y Doc ha retrocedido al año 1885, la época del salvaje oeste. Marty recibe una carta de Doc en la que le informa de que la máquina del tiempo está averiada y no puede volver al presente, pero que no le importa seguir en el pasado. Sin embargo, Marty descubre una tumba en la que lee que Doc murió en 1885 y decide ir a rescatar a su amigo.",
+    "year": 1990,
+    "duration": 118,
+    "genre": ["Ciencia ficción"],
+    "photo": "https://i.ibb.co/Yt1v12f/volver-al-futuro-iii.png",
+    "trailer": "https://www.youtube.com/embed/CPfaI_Nl_0s",
+    "size": 4.34,
+    "download": "https://terabox.com/s/1Ps5cx8-9l70uHc382aNu-A"
+  },
+  {
+    "title": "Yo soy sam",
+    "synopsis": "Sam Dawson es un deficiente mental que deberá luchar por conservar la custodia de su pequeña hija, ya que el Estado considera que no está capacitado para hacerse cargo de su educación. De su defensa se encargará una prestigiosa abogada, Rita Harrison, cuyo desinterés y frialdad inicial cambiarán tras conocer a Sam, descubrir el amor que siente por su hija y comprobar su determinación por defender sus derechos como padre.",
+    "year": 2001,
+    "duration": 132,
+    "genre": ["Drama"],
+    "photo": "https://i.ibb.co/pL63pdM/yo-soy-sam.jpg",
+    "trailer": "https://www.youtube.com/embed/2H9Yh5z2hAI",
+    "size": 4.06,
+    "download": "https://terabox.com/s/1hKdtaJ2IWOLdEqsCw_Nu9Q"
+  },
+  {
     "title": "Como si fuera la primera vez",
     "synopsis": "Henry, biólogo marino, no tiene la mínima intención de comprometerse con nadie, hasta que conoce a Lucy, la chica de sus sueños. Sin embargo, hay un pequeño problema, la joven se levanta cada mañana sin recordar absolutamente nada del día anterior.",
     "year": 2004,
@@ -148,7 +203,7 @@
     "year": 1995,
     "duration": 178,
     "genre": ["Drama", "Acción", "Aventura"],
-    "photo": "https://i.ibb.co/jW4pwtK/corazon-valiente.jpg",
+    "photo": "https://i.ibb.co/sPx5KVj/corazon-valiente.jpg",
     "trailer": "https://www.youtube.com/embed/MEFYe_s0jIM",
     "size": 4.57,
     "download": "https://terabox.com/s/1qc0tBM5n9RcBevCvJ6jlOw"
