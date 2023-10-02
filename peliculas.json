@@ -1,5 +1,70 @@
 [
   {
+    "title": "Todopoderoso",
+    "synopsis": "Tras pasar el peor día de su vida, el reportero de televisión Bruce Nolan le reprocha a Dios lo mal que está administrando el mundo, por lo que el Todopoderoso le otorga sus poderes y lo desafía a hacerlo mejor que Él.",
+    "year": 2003,
+    "duration": 101,
+    "genre": ["Comedia", "Fantasía"],
+    "photo": "https://i.ibb.co/bsQQm3W/todopoderoso.png",
+    "trailer": "https://www.youtube.com/embed/fe-luzrqWSk",
+    "size": 5.03,
+    "download": "https://terabox.com/s/1NlVD4QiByoN_klK55M4z7w"
+  },
+  {
+    "title": "Turbo",
+    "synopsis": "Turbo es un caracol de jardín con un sueño imposible: convertirse en el caracol más rápido del mundo. Cuando un extraño accidente le da el poder de la súper velocidad, Turbo intentará cumplir su sueño: ganar las 500 millas de Indianápolis.",
+    "year": 2013,
+    "duration": 96,
+    "genre": ["Infantil"],
+    "photo": "https://i.ibb.co/D4QXJSF/turbo.jpg",
+    "trailer": "https://www.youtube.com/embed/5Uj7SL0uvOs",
+    "size": 2.37,
+    "download": "https://terabox.com/s/1QucFOzoXomd-2B5yARR9MQ"
+  },
+  {
+    "title": "Un hombre lobo americano en paris",
+    "synopsis": "Andy es un joven norteamericano que viaja a París con sus dos amigos, Brad y Chris, para disfrutar de unas merecidas vacaciones. Una noche en la que se disponen a saltar desde la Torre Eiffel, encuentran a Serafine, una joven que está dispuesta a hacer lo mismo que los tres chicos, pero sin cuerda. Tras rescatarla, Andy empieza a experimentar cambios en su cuerpo hasta caer en la cuenta de que tiene la capacidad de convertirse en hombre lobo.",
+    "year": 1997,
+    "duration": 105,
+    "genre": ["Terror"],
+    "photo": "https://i.ibb.co/r79zry3/un-hombre-lobo-americano-en-paris.png",
+    "trailer": "https://www.youtube.com/embed/xmoKnjj7Y38",
+    "size": 3.36,
+    "download": "https://terabox.com/s/1C07v2WTVc4rneZD3p20XjQ"
+  },
+  {
+    "title": "Un santa no tan santo",
+    "synopsis": "Willie, un amargado y solitario alcohólico, trabaja cada temporada de Navidad en los centros comerciales disfrazado de Papá Noel junto su compañero Marcus, que hace de duende. Cada vispera de Navidad, desconectan la alarma de seguridad después de que el centro comercial cierra y revientan la caja fuerte. En su nuevo destino se encontrarán con un jefe de seguridad que sospecha de ellos.",
+    "year": 2003,
+    "duration": 91,
+    "genre": ["Comedia", "Drama"],
+    "photo": "https://i.ibb.co/LCKm8dQ/un-santa-no-tan-santo.jpg",
+    "size": 2.58,
+    "download": "https://terabox.com/s/1hhfPBhkW9-Y-dRghhhGkFw"
+  },
+  {
+    "title": "Yo antes de ti",
+    "synopsis": "Louisa una chica inestable y creativa, reside en un pequeño pueblo de la campiña inglesa. Vive sin rumbo y va de un trabajo a otro para ayudar a su familia a llegar a fin de mes. Sin embargo, un nuevo trabajo pondrá a prueba su habitual alegría. En el castillo local, se ocupa de cuidar y acompañar a Will Traynor, un joven y rico banquero que se quedó paralítico tras un accidente.",
+    "year": 2016,
+    "duration": 110,
+    "genre": ["Romance", "Drama"],
+    "photo": "https://i.ibb.co/N7DP5zD/yo-antes-de-ti.jpg",
+    "trailer": "https://www.youtube.com/embed/IoQPUqvcmXY",
+    "size": 3.1,
+    "download": "https://terabox.com/s/1GdwtZ89qbxUkfLUYm1zNww"
+  },
+  {
+    "title": "Yo los declaro marido y ... Larry",
+    "synopsis": "Chuck Levine y Larry Valentine son el orgullo del parque de bomberos: son amigos inseparables. Es momento de que Chuck le devuelva un favor a Larry, debe firmar unos formularios como pareja de Larry para que sus hijos se beneficien del seguro de vida de su padre.Sin embargo, las sospechas de un funcionario hacen que lo que era un acto puramente formal y secreto se convierta en noticia. Los dos amigos se verán entonces obligados a representar el papel de pareja feliz y enamorada.",
+    "year": 2007,
+    "duration": 115,
+    "genre": ["Comedia"],
+    "photo": "https://i.ibb.co/zRMjxjy/yo-los-declaro-marido-y-larry.jpg",
+    "trailer": "https://www.youtube.com/embed/5LKTlIcmA0Q",
+    "size": 4.08,
+    "download": "https://terabox.com/s/1L26EChB4i07yAIMJ99wOaA"
+  },
+  {
     "title": "Un ninja en beverly hills",
     "synopsis": "El clan de los ninjas encuentra a un niño blanco en la costa del Pacífico y lo adopta pensando que se trata de un enviado. Sin embargo no es así, Haru es el más torpe del universo, es gordo, loco y avergüenza a los ninjas donde quiera que van.",
     "year": 1997,
