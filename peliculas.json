@@ -1,5 +1,115 @@
 [
   {
+    "title": "Mi pobre angelito I",
+    "synopsis": "El joven Kevin McCallister se porta mal la noche antes de ir de viaje a París, por lo que su madre le obliga a dormir en el ático. Al día siguiente y con todas las prisas, la familia va al aeropuerto y se olvida de Kevin. Entonces el niño se despierta solo en casa y cree que ha hecho realidad su sueño de vivir sin familia. Sin embargo, el entusiasmo de Kevin se desvanece cuando descubre que dos delincuentes planean robar la casa de los McCallister y él deberá protegerla.",
+    "year": 1990,
+    "duration": 103,
+    "genre": ["Infantil", "Navidad"],
+    "photo": "https://i.ibb.co/12R2n0B/mi-pobre-angelito-i.jpg",
+    "trailer": "https://www.youtube.com/embed/jEDaVHmw7r4",
+    "size": 3.79,
+    "download": "https://terabox.com/s/1hEWVpUtL_0Z9VWAwxiaIKw"
+  },
+  {
+    "title": "Mi pobre angelito II",
+    "synopsis": "En plenas navidades, Kevin y su familia están a punto de coger un avión para pasar unas pequeñas vacaciones. Sin embargo, Kevin se equivoca y embarca en un avión a Nueva York. Cuando llega a la gran ciudad, lejos de sentirse solo y desprotegido, Kevin reserva una habitación en un lujoso hotel con la tarjeta de crédito de su padre y se hace amigo de un sin techo.",
+    "year": 1992,
+    "duration": 120,
+    "genre": ["Infantil", "Navidad"],
+    "photo": "https://i.ibb.co/ypss37h/mi-pobre-angelito-ii.png",
+    "trailer": "https://www.youtube.com/embed/5h9VDUNtoto",
+    "size": 4.28,
+    "download": "https://terabox.com/s/1K5Yt0FknYO1XTLT7rvOS8A"
+  },
+  {
+    "title": "Milagros inesperados",
+    "synopsis": "Paul Edgecomb es un funcionario de prisiones que vigila 'la milla verde', el pasillo de linóleo que los condenados a muerte recorren hasta llegar a la silla eléctrica. John Coffey, un gigantesco convicto acusado de violar y asesinar a dos niñas de nueve años, está esperando su inminente ejecución. Tras una personalidad ingenua, John esconde un don sobrenatural con el que contagia su sentido de espiritualidad y humanidad a todos sus compañeros de prisión.",
+    "year": 1999,
+    "duration": 189,
+    "genre": ["Drama", "Crimen"],
+    "photo": "https://i.ibb.co/Mpv6KD2/milagros-inesperados.png",
+    "trailer": "https://www.youtube.com/embed/Ki4haFrqSrw",
+    "size": 2.82,
+    "download": "https://terabox.com/s/1SIbGAlAx2VKrZ_DPk94wXQ"
+  },
+  {
+    "title": "Moonwalker",
+    "synopsis": "La biografía musical más aclamada nos adentra en la personalidad del cantante e intérprete Michael Jackson. La película acompaña al artista desde su infancia hasta su madurez como cantante, haciendo un recorrido por sus grandes éxitos musicales.",
+    "year": 1988,
+    "duration": 93,
+    "genre": ["Música"],
+    "photo": "https://i.ibb.co/y5LZPcz/moonwalker.jpg",
+    "trailer": "https://www.youtube.com/embed/R_DuimZMkQ0",
+    "size": 2.83,
+    "download": "https://terabox.com/s/1wvnBGRmmrIi800v3zBJUlQ"
+  },
+  {
+    "title": "Ni en tus sueños",
+    "synopsis": "Kirk es un tipo muy simple que trabaja en el aeropuerto. Sin embargo, un día conoce casualmente a la despampanante Molly, una chica que no parece estar a su alcance, pero que, poco a poco, empieza a concederle citas.",
+    "year": 2010,
+    "duration": 104,
+    "genre": ["Romance"],
+    "photo": "https://i.ibb.co/chZ6nNw/ni-en-tus-sue-os.png",
+    "trailer": "https://www.youtube.com/embed/0tUApLEtRo4",
+    "size": 6.97,
+    "download": "https://terabox.com/s/14DM06bI_DIAmj68xMVuEbQ"
+  },
+  {
+    "title": "Rush",
+    "synopsis": "El carismático inglés James Hunt y el austriaco perfeccionista Niki Lauda destacan en la escena de la Fórmula 1 de los años setenta y comparten una intensa rivalidad dentro y fuera de las pistas.",
+    "year": 2013,
+    "duration": 123,
+    "genre": ["Acción", "Deportes"],
+    "photo": "https://i.ibb.co/2NqCHXr/rush.jpg",
+    "trailer": "https://www.youtube.com/embed/4OwBgGqnJUQ",
+    "size": 3.93,
+    "download": "https://terabox.com/s/1WMMnMs0-mXeJuE51Bgg3cg"
+  },
+  {
+    "title": "Space jam",
+    "synopsis": "Bugs Bunny y sus amigos se enfrentan al partido de baloncesto más importante de sus vidas: el que determinará su libertad y permanencia en el planeta Tierra.",
+    "year": 1996,
+    "duration": 88,
+    "genre": ["Infantil"],
+    "photo": "https://i.ibb.co/3zRzDZR/space-jam.png",
+    "trailer": "https://www.youtube.com/embed/17pOeKY17vc",
+    "size": 3.27,
+    "download": "https://terabox.com/s/13gAgUWOO1-Ko9cHZcmZAYA"
+  },
+  {
+    "title": "Terminator I",
+    "synopsis": "En el año 2029 las máquinas dominan el mundo. Los rebeldes que luchan contra ellas tienen como líder a John Connor, un hombre que nació en los años ochenta. Para eliminarlo y así acabar con la rebelión, las máquinas envían al pasado el robot Terminator con la misión de matar a Sarah Connor, la madre de John, e impedir así su nacimiento. Sin embargo, un hombre del futuro intentará protegerla.",
+    "year": 1984,
+    "duration": 107,
+    "genre": ["Acción", "Ciencia ficción"],
+    "photo": "https://i.ibb.co/Lh6w0g2/terminator-i.jpg",
+    "trailer": "https://www.youtube.com/embed/k64P4l2Wmeg",
+    "size": 3.02,
+    "download": "https://terabox.com/s/1kJYul0Z85ukEhpZNs4YpcA"
+  },
+  {
+    "title": "Terminator II",
+    "synopsis": "Algunos años antes, un viajero del tiempo le reveló a la madre de John que su hijo sería el salvador de la humanidad. Cuando un nuevo androide mejorado llega del futuro para asesinar a John, un viejo modelo será enviado para protegerle.",
+    "year": 1991,
+    "duration": 137,
+    "genre": ["Acción", "Ciencia ficción"],
+    "photo": "https://i.ibb.co/vznDdX8/terminator-ii.jpg",
+    "trailer": "https://www.youtube.com/embed/h4ThFNL_2tI",
+    "size": 4.46,
+    "download": "https://terabox.com/s/1jdw7luguIUx3ckdE9t_wxQ"
+  },
+  {
+    "title": "Titanic",
+    "synopsis": "Jack es un joven artista que gana un pasaje para viajar a América en el Titanic, el transatlántico más grande y seguro jamás construido. A bordo del buque conoce a Rose, una chica de clase alta que viaja con su madre y su prometido Cal, un millonario engreído a quien solo interesa el prestigio de la familia de su prometida. Jack y Rose se enamoran a pesar de las trabas que ponen la madre de ella y Cal en su relación. Mientras, el lujoso transatlántico se acerca a un inmenso iceberg.",
+    "year": 1997,
+    "duration": 194,
+    "genre": ["Romance", "Drama"],
+    "photo": "https://i.ibb.co/0jPkJJh/titanic.jpg",
+    "trailer": "https://www.youtube.com/embed/tri6jLT4y0g",
+    "size": 5.14,
+    "download": "https://terabox.com/s/1r7GoXxMzFB-WOWDIqEOQlA"
+  },
+  {
     "title": "Todopoderoso",
     "synopsis": "Tras pasar el peor día de su vida, el reportero de televisión Bruce Nolan le reprocha a Dios lo mal que está administrando el mundo, por lo que el Todopoderoso le otorga sus poderes y lo desafía a hacerlo mejor que Él.",
     "year": 2003,
@@ -37,7 +147,7 @@
     "synopsis": "Willie, un amargado y solitario alcohólico, trabaja cada temporada de Navidad en los centros comerciales disfrazado de Papá Noel junto su compañero Marcus, que hace de duende. Cada vispera de Navidad, desconectan la alarma de seguridad después de que el centro comercial cierra y revientan la caja fuerte. En su nuevo destino se encontrarán con un jefe de seguridad que sospecha de ellos.",
     "year": 2003,
     "duration": 91,
-    "genre": ["Comedia", "Drama"],
+    "genre": ["Comedia", "Drama", "Navidad"],
     "photo": "https://i.ibb.co/LCKm8dQ/un-santa-no-tan-santo.jpg",
     "size": 2.58,
     "download": "https://terabox.com/s/1hhfPBhkW9-Y-dRghhhGkFw"
@@ -230,7 +340,7 @@
     "download": "https://terabox.com/s/1Kre6nYjiFxHB-EkFMpavIA"
   },
   {
-    "title": "Y donde están las rubias",
+    "title": "Y donde estan las rubias",
     "synopsis": "Dos desafortunados agentes del FBI se hacen pasar por dos chicas, novatas en la alta sociedad para investigar una serie de secuestros. Pero mientras preparan su plan, descubren que irrumpir en la alta sociedad es mucho más duro de lo que creían.",
     "year": 2004,
     "duration": 109,
