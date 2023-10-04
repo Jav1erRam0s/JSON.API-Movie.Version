@@ -1,5 +1,60 @@
 [
   {
+    "title": "Marcianos al ataque",
+    "synopsis": "Un grupo de naves espaciales llegadas de Marte están dispuestas a invadir la Tierra. En la Casa Blanca, el presidente de los Estados Unidos James Dale prepara un comité de bienvenida para recibir a los marcianos en señal de buena voluntad. Sin embargo, el encuentro no se desarrolla como se preveía y los marcianos se divierten desintegrando humanos. Un estrambótico equipo intergeneracional de vigilantes tratará de combatir la locura marciana.",
+    "year": 1996,
+    "duration": 106,
+    "genre": ["Ciencia ficción"],
+    "photo": "https://i.ibb.co/fdnH3FP/marcianos-al-ataque.png",
+    "trailer": "https://www.youtube.com/embed/DqtjHWlM4lQ",
+    "size": 1.26,
+    "download": "https://terabox.com/s/1exRse7r5Cji3HpHo1VLleA"
+  },
+  {
+    "title": "Matilda",
+    "synopsis": "Una niña desarrolla una capacidad mental extraordinaria, a pesar de sus padres descuidados y de una directora abusiva.",
+    "year": 1996,
+    "duration": 98,
+    "genre": ["Infantil"],
+    "photo": "https://i.ibb.co/QfR8dj5/matilda.jpg",
+    "trailer": "https://www.youtube.com/embed/hUGHWje7liM",
+    "size": 2.06,
+    "download": "https://terabox.com/s/18yeIm_2XyTu-StrgJ6WFwA"
+  },
+  {
+    "title": "Matrix",
+    "synopsis": "El programador informático Thomas Anderson, más conocido en el mundo de los 'hacker' como Neo, está en el punto de mira del temible agente Smith. Otros dos piratas informáticos, Trinity y Morfeo, se ponen en contacto con Neo para ayudarlo a escapar. Matrix te posee. Sigue al conejo blanco.",
+    "year": 1999,
+    "duration": 136,
+    "genre": ["Acción", "Ciencia ficción"],
+    "photo": "https://i.ibb.co/Zf2Bhv6/matrix.jpg",
+    "trailer": "https://www.youtube.com/embed/OM0tSTEQCQA",
+    "size": 4.68,
+    "download": "https://terabox.com/s/1MZ9bwhWoyqBcUOKDW5RuPQ"
+  },
+  {
+    "title": "Mentiroso mentiroso",
+    "synopsis": "Fletcher Reede es un abogado ambicioso y sin escrúpulos, que utiliza la mentira como un medio habitual de trabajo. Su hijo de cinco años, harto de promesas incumplidas, pide un deseo, que su padre no pueda mentir durante veinticuatro horas.",
+    "year": 1997,
+    "duration": 87,
+    "genre": ["Comedia"],
+    "photo": "https://i.ibb.co/5sP62Tq/mentiroso-mentiroso.png",
+    "trailer": "https://www.youtube.com/embed/C1no75lpOiw",
+    "size": 2.32,
+    "download": "https://terabox.com/s/1RdEYLVFx19ee14PUG27cAQ"
+  },
+  {
+    "title": "Naufrago",
+    "synopsis": "Tras una accidente aéreo, Chuck Noland, ingeniero de Federal Express, trata de sobrevivir durante años en una isla completamente desierta.",
+    "year": 2000,
+    "duration": 144,
+    "genre": ["Aventura", "Drama"],
+    "photo": "https://i.ibb.co/fCTNhMP/naufrago.jpg",
+    "trailer": "https://www.youtube.com/embed/SWC9UR1tAho",
+    "size": 4.0,
+    "download": "https://terabox.com/s/16DYKQ9VydjY0hnhXlVCL0g"
+  },
+  {
     "title": "Mi pobre angelito I",
     "synopsis": "El joven Kevin McCallister se porta mal la noche antes de ir de viaje a París, por lo que su madre le obliga a dormir en el ático. Al día siguiente y con todas las prisas, la familia va al aeropuerto y se olvida de Kevin. Entonces el niño se despierta solo en casa y cree que ha hecho realidad su sueño de vivir sin familia. Sin embargo, el entusiasmo de Kevin se desvanece cuando descubre que dos delincuentes planean robar la casa de los McCallister y él deberá protegerla.",
     "year": 1990,
