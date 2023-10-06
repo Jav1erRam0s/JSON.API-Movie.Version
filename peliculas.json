@@ -1,5 +1,104 @@
 [
   {
+    "title": "Howard el pato",
+    "synopsis": "Debido a un error de un laboratorio espacial, un pato llamado Howard llega a la Tierra desde un lejano planeta. Una vez aquí, es acogido en casa de Beberly, una joven cantante de un grupo de rock. Un doctor intenta devolver al pato a su planeta de origen. Sin embargo, la energía diabólica del experimento le atrapa y le transforma en el terrible Señor de las Tinieblas. Entonces Howard tendrá que enfrentarse a él.",
+    "year": 1986,
+    "duration": 111,
+    "genre": ["Ciencia ficción"],
+    "photo": "https://i.ibb.co/C8Nzw2z/howard-el-pato.jpg",
+    "trailer": "https://www.youtube.com/embed/yeU4UlDWfKI",
+    "size": 2.1,
+    "download": "https://terabox.com/s/1sIJdkOw6PUIO5C9q5rIkFg"
+  },
+  {
+    "title": "Inteligencia artificial",
+    "synopsis": "David, el primer niño robótico programado para poder amar, es adoptado a modo de prueba por un empleado de Cybertronics y su mujer. A pesar de que poco a poco comienza a convertirse en su hijo, una serie de inesperadas circunstancias hacen esta vida imposible para David. Al no contar con la aceptación ni de máquinas ni de humanos, David se embarca en un viaje para descubrir cual es su lugar en un mundo en el que la línea entre lo humano y lo robótico es tan grande y estrecha al mismo tiempo.",
+    "year": 2001,
+    "duration": 146,
+    "genre": ["Ciencia ficción", "Drama"],
+    "photo": "https://i.ibb.co/xHX2KDg/inteligencia-artificial.jpg",
+    "trailer": "https://www.youtube.com/embed/_19pRsZRiz4",
+    "size": 4.46,
+    "download": "https://terabox.com/s/1az1y2WEnqs92cnYxTT8mGQ"
+  },
+  {
+    "title": "Irene, yo y mi otro yo",
+    "synopsis": "Charlie es un policía experimentado con doble personalidad: una gentil y otra indeseable que emerge cuando no toma su medicación. Sus dos yos se enamoran de la misma mujer, a quien debe escoltar desde Rhode Island hasta Nueva York.",
+    "year": 2000,
+    "duration": 116,
+    "genre": ["Comedia"],
+    "photo": "https://i.ibb.co/TM0QrVn/irene-yo-y-mi-otro-yo.png",
+    "trailer": "https://www.youtube.com/embed/JABG7viqJWc",
+    "size": 4.13,
+    "download": "https://terabox.com/s/1LM6Pti2xQ43TnQyhSTsTiA"
+  },
+  {
+    "title": "IT - Capitulo I",
+    "synopsis": "Varios niños de una pequeña ciudad del estado de Maine se alían para combatir a una entidad diabólica que adopta la forma de un payaso y desde hace mucho tiempo emerge cada 27 años para saciarse de sangre infantil.",
+    "year": 2017,
+    "duration": 135,
+    "genre": ["Terror"],
+    "photo": "https://i.ibb.co/g7zx2bX/it-capitulo-i.jpg",
+    "trailer": "https://www.youtube.com/embed/pxgsAXKzhSE",
+    "size": 4.14,
+    "download": "https://terabox.com/s/1EmmMSYLP3FsVxx7GL3EGJw"
+  },
+  {
+    "title": "IT - Capitulo II",
+    "synopsis": "En el misterioso pueblo de Derry, un malvado payaso llamado Pennywise vuelve 27 años después para atormentar a los ya adultos miembros del Club de los Perdedores, que ahora están más alejados unos de otros.",
+    "year": 2019,
+    "duration": 169,
+    "genre": ["Terror"],
+    "photo": "https://i.ibb.co/sKVxrhy/it-capitulo-ii.jpg",
+    "trailer": "https://www.youtube.com/embed/8gJ2K0xBRO4",
+    "size": 5.65,
+    "download": "https://terabox.com/s/1HhGNKbnJLUn-uHQvl4wkBw"
+  },
+  {
+    "title": "La era de hielo I",
+    "synopsis": "Hace 20.000 años, la Tierra es un lugar prehistórico lleno de peligros, entre ellos el comienzo de la Edad de hielo. Para evitar quedarse congelados, las criaturas majestuosas empiezan a migrar hacia el sur. Entonces, un grupo de animales muy distintos, entre los que se encuentra un mamut gruñón y un perezoso, deben ayudar a un niño perdido a regresar a su clan.",
+    "year": 2002,
+    "duration": 81,
+    "genre": ["Infantil", "Aventura"],
+    "photo": "https://i.ibb.co/tMmHBs9/la-era-de-hielo-i.jpg",
+    "trailer": "https://www.youtube.com/embed/RI7e1IksKEQ",
+    "size": 2.48,
+    "download": "https://terabox.com/s/1PPb71_tWltaIo923c8AbNQ"
+  },
+  {
+    "title": "La terminal",
+    "synopsis": "Incapaz de entrar a los Estados Unidos, un europeo hace amistad con una azafata mientras vive en un aeropuerto de Nueva York.",
+    "year": 2004,
+    "duration": 128,
+    "genre": ["Drama", "Romance"],
+    "photo": "https://i.ibb.co/jW4QGMK/la-terminal.jpg",
+    "trailer": "https://www.youtube.com/embed/iZqQRmhRvyg",
+    "size": 4.35,
+    "download": "https://terabox.com/s/1LaADJlPW56rYZiLXbNX5rw"
+  },
+  {
+    "title": "Las locuras de dick y jane",
+    "synopsis": "Dick Harper es, por fin, ascendido a vicepresidente en su compañía, pero un escándalo arruina la empresa. Entonces, Dick y su esposa Jane ven cómo su lujosa casa, sus ostentosos autos e, incluso, sus amistades se desvanecen como por arte de magia.",
+    "year": 2005,
+    "duration": 91,
+    "genre": ["Comedia"],
+    "photo": "https://i.ibb.co/bvX21zd/las-locuras-de-dick-y-jane.png",
+    "trailer": "https://www.youtube.com/embed/LvOv3veA13Q",
+    "size": 3.19,
+    "download": "https://terabox.com/s/10ramiNDvKenfu-IbMI-dbg"
+  },
+  {
+    "title": "Leyendas de pasion",
+    "synopsis": "El coronel Ludlow y sus tres hijos viven en un tranquilo rancho de Montana, pero la I Guerra Mundial y la llegada de Susannah, cambiará su destino para siempre.",
+    "year": 1994,
+    "duration": 133,
+    "genre": ["Drama"],
+    "photo": "https://i.ibb.co/x3FSqVG/leyendas-de-pasion.jpg",
+    "trailer": "https://www.youtube.com/embed/cDST4g06cxY",
+    "size": 4.57,
+    "download": "https://terabox.com/s/1u1aVMPjB4GoBtMnbkonqVA"
+  },
+  {
     "title": "Marcianos al ataque",
     "synopsis": "Un grupo de naves espaciales llegadas de Marte están dispuestas a invadir la Tierra. En la Casa Blanca, el presidente de los Estados Unidos James Dale prepara un comité de bienvenida para recibir a los marcianos en señal de buena voluntad. Sin embargo, el encuentro no se desarrolla como se preveía y los marcianos se divierten desintegrando humanos. Un estrambótico equipo intergeneracional de vigilantes tratará de combatir la locura marciana.",
     "year": 1996,
