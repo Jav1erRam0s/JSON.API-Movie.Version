@@ -1,5 +1,124 @@
 [
   {
+    "title": "High school musical",
+    "synopsis": "Troy y Gabriela se conocen en un karaoke durante las vacaciones. Troy es una estrella de baloncesto, y Gabriela es la nueva estudiante. Al volver al colegio, se presentan al casting para el musical de la escuela, pero deben superar varios obstáculos.",
+    "year": 2006,
+    "duration": 98,
+    "genre": ["Romance"],
+    "photo": "https://i.ibb.co/17fVwSb/high-school-musical.jpg",
+    "size": 3.31,
+    "download": "https://terabox.com/s/1ToArbCvNA_3PyOktZUY_-g"
+  },
+  {
+    "title": "Hombres de honor",
+    "synopsis": "Carl Brashear fue un hombre que no dejó que nada se interpusiera en el camino de su sueño: ser el primer buceador negro de la marina norteamericana. Basada en una historia real.",
+    "year": 2000,
+    "duration": 129,
+    "genre": ["Drama"],
+    "photo": "https://i.ibb.co/wJgkFvs/hombres-de-honor.jpg",
+    "trailer": "https://www.youtube.com/embed/E21xH5vg0yo",
+    "size": 3.58,
+    "download": "https://terabox.com/s/1IZkLPqiJ-X1dENLapeKDKA"
+  },
+  {
+    "title": "John Q",
+    "synopsis": "Cuando el seguro médico se niega a cubrir el trasplante de corazón que su hijo necesita, un padre se ve obligado a tomar una medida desesperada.",
+    "year": 2002,
+    "duration": 114,
+    "genre": ["Drama"],
+    "photo": "https://i.ibb.co/8rCRnFK/john-q.jpg",
+    "trailer": "https://www.youtube.com/embed/w-0_tN6O-5k",
+    "size": 3.8,
+    "download": "https://terabox.com/s/1RsQtmBS14utc82pInFy9ow"
+  },
+  {
+    "title": "Jumper",
+    "synopsis": "David Rice es un joven que tiene el misterioso poder de teletransportarse a cualquier lugar del mundo. Por esta razón, será perseguido por una organización secreta cuya misión es acabar con todos aquellos que posean esta habilidad.",
+    "year": 2008,
+    "duration": 90,
+    "genre": ["Ciencia ficción", "Acción"],
+    "photo": "https://i.ibb.co/qWkXt1W/jumper.jpg",
+    "trailer": "https://www.youtube.com/embed/gLD35nRxISc",
+    "size": 1.85,
+    "download": "https://terabox.com/s/1Nw0xQEKlxcshKmNhNzmj2g"
+  },
+  {
+    "title": "Footloose",
+    "synopsis": "Un joven excéntrico de Chicago se instala en un pequeño pueblo en el que el pastor de la iglesia local ha prohibido el baile. Su llegada provoca una revolución entre los jóvenes de la localidad.",
+    "year": 1984,
+    "duration": 107,
+    "genre": ["Música"],
+    "photo": "https://i.ibb.co/f8S0Gvq/footloose.jpg",
+    "size": 3.45,
+    "download": "https://terabox.com/s/17YsCpSYUPSONlhPrrdIOCQ"
+  },
+  {
+    "title": "Fred claus",
+    "synopsis": "De los dos hermanos Claus, Fred (Vince Vaughn) es el más problemático y es el polo opuesto de su cariñoso hermano Nicolás o Santa (Paul Giamatti). Los crímenes de Fred finalmente lo llevan a la cárcel, Nicolás lo saca de ahí y lo lleva con él al Polo Norte para que pague su deuda fabricando juguetes. Sin embargo, Fred tiene otros planes, y pone en peligro a la Navidad.",
+    "year": 2007,
+    "duration": 114,
+    "genre": ["Infantil", "Navidad"],
+    "photo": "https://i.ibb.co/MGYDHQB/fred-claus.jpg",
+    "trailer": "https://www.youtube.com/embed/FlQAboa9f4g",
+    "size": 3.85,
+    "download": "https://terabox.com/s/1BK_h6vsnoAAtiTiOMr5rmA"
+  },
+  {
+    "title": "Ghost",
+    "synopsis": "Sam y Molly están muy enamorados. Un día Sam es asesinado a causa de un oscuro acuerdo de negocios y se transforma en un fantasma que deambula por las calles. Muy triste por haber dejado sola a Molly, Sam descubre que Carl, su amigo y socio corrupto, es el responsable de su muerte. Entonces Sam deberá buscar la ayuda de Oda Mae Brown, una psíquica que puede proteger a Molly de Carl y sus matones.",
+    "year": 1990,
+    "duration": 127,
+    "genre": ["Romance"],
+    "photo": "https://i.ibb.co/Q85nHvV/ghost.jpg",
+    "trailer": "https://www.youtube.com/embed/jDVBHSe6W0U",
+    "size": 2.69,
+    "download": "https://terabox.com/s/1q96sBhGVRFdk6M-_dn99NA"
+  },
+  {
+    "title": "Gigantes de acero",
+    "synopsis": "En un futuro no muy lejano, el boxeo es robótico: en los combates ya no se enfrentan seres humanos, sino sofisticadas máquinas diseñadas para luchar. Charlie Kenton, un antiguo púgil que casi llegó a alcanzar la gloria, está pasando una mala racha como promotor de combates, así que un día, tras encontrar un viejo robot desechado, decide entrenarlo.",
+    "year": 2011,
+    "duration": 127,
+    "genre": ["Acción", "Ciencia ficción"],
+    "photo": "https://i.ibb.co/FqLPxnC/gigantes-de-acero.png",
+    "trailer": "https://www.youtube.com/embed/at09WfVw_ig",
+    "size": 3.42,
+    "download": "https://terabox.com/s/1Gxh8WkgIHryGtaF09MJh6Q"
+  },
+  {
+    "title": "Golpe bajo",
+    "synopsis": "Paul Crewe, un exjugador de la NFL, es detenido y enviado a prisión. Allí se verá obligado a convertir a un variado grupo de presos en un equipo que tendrá que jugar contra los guardias del centro.",
+    "year": 2005,
+    "duration": 113,
+    "genre": ["Comedia"],
+    "photo": "https://i.ibb.co/Lhgz92Z/golpe-bajo.jpg",
+    "trailer": "https://www.youtube.com/embed/pKqv0NcaOak",
+    "size": 3.87,
+    "download": "https://terabox.com/s/1ddlor46tI5R9akNKUR-Peg"
+  },
+  {
+    "title": "Gran torino",
+    "synopsis": "Walt Kowalski, un veterano de la guerra de Corea, es un obrero jubilado del sector del automóvil que ha enviudado recientemente. Su máxima pasión es cuidar de su más preciado tesoro: un coche Gran Torino de 1972. Es un hombre inflexible y cascarrabias, al que le cuesta trabajo asimilar los cambios que se producen a su alrededor, especialmente la llegada de multitud de inmigrantes asiáticos a su barrio. Sin embargo, las circustancias harán que se vea obligado a replantearse sus ideas.",
+    "year": 2008,
+    "duration": 116,
+    "genre": ["Drama"],
+    "photo": "https://i.ibb.co/NVL6LY7/gran-torino.jpg",
+    "trailer": "https://www.youtube.com/embed/RMhbr2XQblk",
+    "size": 2.66,
+    "download": "https://terabox.com/s/1uqTYGF1ZDL9Fhb8Byk0nqQ"
+  },
+  {
+    "title": "Propuesta indecente",
+    "synopsis": "El matrimonio de David y Diana es puesto a prueba por un millonario que les ofrece un millón de dólares si Diana pasa una noche con él.",
+    "year": 1993,
+    "duration": 117,
+    "genre": ["Romance", "Drama"],
+    "photo": "https://i.ibb.co/N3LvN3j/propuesta-indecente.jpg",
+    "trailer": "https://www.youtube.com/embed/cw9_sE7Z20A",
+    "size": 2.33,
+    "download": "https://terabox.com/s/1YocbEfesWKFRR0eLbG2Kkg"
+  },
+  {
     "title": "Howard el pato",
     "synopsis": "Debido a un error de un laboratorio espacial, un pato llamado Howard llega a la Tierra desde un lejano planeta. Una vez aquí, es acogido en casa de Beberly, una joven cantante de un grupo de rock. Un doctor intenta devolver al pato a su planeta de origen. Sin embargo, la energía diabólica del experimento le atrapa y le transforma en el terrible Señor de las Tinieblas. Entonces Howard tendrá que enfrentarse a él.",
     "year": 1986,
