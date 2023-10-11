@@ -1,5 +1,114 @@
 [
   {
+    "title": "El guardaespaldas",
+    "synopsis": "Una cantante famosa que recibe constantemente cartas anónimas con amenazas de muerte contrata a un guardaespaldas profesional para que la proteja. Sin embargo, ella no está de acuerdo con los métodos empleados por su protector.",
+    "year": 1992,
+    "duration": 129,
+    "genre": ["Drama", "Romance"],
+    "photo": "https://i.ibb.co/bK50gs6/el-guardaespaldas.jpg",
+    "trailer": "https://www.youtube.com/embed/v4qauDAr_hA",
+    "size": 4.24,
+    "download": "https://terabox.com/s/1pFlV2zn0Y9zvb4qp_BsyDw"
+  },
+  {
+    "title": "El planeta de los simios",
+    "synopsis": "Año 2029. En una misión rutinaria, el astronauta Leo Davidson pierde el control de su nave y aterriza en un extraño planeta, que está gobernado por una raza de simios cuya inteligencia es similar a la de los seres humanos, a los que, sin embargo, tratan como si fueran animales. Con la ayuda de una chimpancé y de un pequeño grupo de rebeldes, Leo encabeza una rebelión contra el poderoso ejército dirigido por el general Thade. La clave de la victoria consiste en llegar a un templo sagrado, situado en la zona prohibida del planeta, que contiene extraordinarios secretos del pasado",
+    "year": 2001,
+    "duration": 119,
+    "genre": ["Ciencia ficción", "Aventura"],
+    "photo": "https://i.ibb.co/Th7bK5x/el-planeta-de-los-simios.jpg",
+    "trailer": "https://www.youtube.com/embed/rwhGmiEoQXs",
+    "size": 3.23,
+    "download": "https://terabox.com/s/19TYMvC75SnhHJpv4ipZyWQ"
+  },
+  {
+    "title": "Fuego con fuego",
+    "synopsis": "Joe Fisk es un muchacho que acaba de llegar a una granja-reformatorio para delincuentes juveniles. Durante una carrera por el bosque, se tropezará con Lisa, una joven internada en una escuela religiosa para señoritas cercana al reformatorio, donde ha sido prácticamente abandonada por sus padres ausentes. Aunque solo se ven durante un segundo, harán cualquier cosa para volver a verse... aunque en su situación, todo serán problemas.",
+    "year": 1986,
+    "duration": 104,
+    "genre": ["Romance"],
+    "photo": "https://i.ibb.co/1q64gLP/fuego-con-fuego.jpg",
+    "trailer": "https://www.youtube.com/embed/N-kelbidpFU",
+    "size": 1.76,
+    "download": "https://terabox.com/s/1RxfmzKptT5IROTdDpyezuA"
+  },
+  {
+    "title": "Hachiko",
+    "synopsis": "Un perro fiel llamado Hachiko acompaña cada mañana a su amo a la estación de tren y regresa cada tarde para darle la bienvenida después del trabajo. Sin embargo, esta rutina se ve rota por una desgracia.",
+    "year": 2009,
+    "duration": 93,
+    "genre": ["Drama"],
+    "photo": "https://i.ibb.co/z7SxdD3/hachiko.png",
+    "trailer": "https://www.youtube.com/embed/D5hNhBCqj2o",
+    "size": 3.05,
+    "download": "https://terabox.com/s/17rlcinzlzSl8LDmmlD83nA"
+  },
+  {
+    "title": "Happy gilmore",
+    "synopsis": "Happy Gilmore trata de hacerse profesional de hockey pero carece del talento necesario. Cuando descubre que su abuela adeuda 270.000 dólares, Gilmore demostrará en un torneo su habilidad en el golf gracias a su potente swing.",
+    "year": 1996,
+    "duration": 93,
+    "genre": ["Comedia"],
+    "photo": "https://i.ibb.co/XbDhf2S/happy-gilmore.jpg",
+    "trailer": "https://www.youtube.com/embed/OsQ0Wk4iH6Y",
+    "size": 3.36,
+    "download": "https://terabox.com/s/1H-qfvoliaUJlfYgcy2ZN9A"
+  },
+  {
+    "title": "La princesa prometida",
+    "synopsis": "Una hermosa doncella es desposada con un malvado príncipe, sabiendo que su verdadero amor parte en barco. Tiempo después es rescatada por este último, convertido ahora en pirata, y además presenciará una serie de encuentros con varios villanos.",
+    "year": 1987,
+    "duration": 98,
+    "genre": ["Romance", "Aventura"],
+    "photo": "https://i.ibb.co/pPkQ257/la-princesa-prometida.jpg",
+    "trailer": "https://www.youtube.com/embed/O3CIXEAjcc8",
+    "size": 991,
+    "download": "https://terabox.com/s/1JUU-T8Ttc1MCY1eBSxdobg"
+  },
+  {
+    "title": "Las brujas",
+    "synopsis": "Luke es un niño apasionado por las historias de misterio. Un día, las leyendas contadas por su abuela sobre la existencia de las brujas lo introducen en un mundo misterioso.",
+    "year": 1990,
+    "duration": 91,
+    "genre": ["Fantasía", "Infantil"],
+    "photo": "https://i.ibb.co/gvLYf6h/las-brujas.png",
+    "trailer": "https://www.youtube.com/embed/d_ZyqaN_XNM",
+    "size": 2.82,
+    "download": "https://terabox.com/s/1DOINiaG_Ww0kh3AvPrg_7Q"
+  },
+  {
+    "title": "Paranoia",
+    "synopsis": "Desde la muerte de su padre, el joven Kale se ha alejado y ha entristecido más, hasta que debe enfrentarse a un arresto domiciliario. Al sentirse encerrado, él voltea su atención a espiar a sus vecinos, sospechando que uno de ellos es un asesino en serie. Sin embargo, comienza a creer que su imaginación hiperactiva está obteniendo lo mejor de él.",
+    "year": 2007,
+    "duration": 105,
+    "genre": ["Misterio"],
+    "photo": "https://i.ibb.co/K642HV8/paranoia.jpg",
+    "trailer": "https://www.youtube.com/embed/LoemUrP3EKQ",
+    "size": 3.6,
+    "download": "https://terabox.com/s/1qAQTxDuOAmJea3OeyOeBpQ"
+  },
+  {
+    "title": "Quisiera ser grande",
+    "synopsis": "Josh es un niño de 12 años que harto de su corta estatura pide a una máquina de feria el deseo de convertirse en un chico mayor y para su sorpresa se lo concede. Ya como adulto, Josh es contratado como alto ejecutivo de una importante empresa de juguetes debido a que por su mentalidad infantil conoce perfectamente los gustos de los niños. Ahora, podrá disfrutar de la independencia de la que gozan los mayores e incluso conocer el amor, pero también las dificultades que conlleva el hacerse adulto.",
+    "year": 1988,
+    "duration": 104,
+    "genre": ["Infantil"],
+    "photo": "https://i.ibb.co/859cjjh/quisiera-ser-grande.jpg",
+    "size": 2.81,
+    "download": "https://terabox.com/s/18_qb0NXvX-65Mpq1pNvK8w"
+  },
+  {
+    "title": "Sexto sentido",
+    "synopsis": "Malcolm Crowe es un psicólogo infantil que vive obsesionado por el recuerdo de un joven al que fue incapaz de ayudar. Cuando conoce a Cole, un aterrorizado y confuso niño de ocho años, ve que se le presenta la oportunidad de redimirse haciendo todo lo posible para ayudarlo. Sin embargo, el doctor no está preparado para descubrir la terrible verdad sobre el chico: recibe visitas de espíritus atormentados que lo asustan.",
+    "year": 1999,
+    "duration": 107,
+    "genre": ["Drama"],
+    "photo": "https://i.ibb.co/h8JzwZK/sexto-sentido.png",
+    "trailer": "https://www.youtube.com/embed/cqJFb5ggwjk",
+    "size": 3.7,
+    "download": "https://terabox.com/s/1g9-2Y1vGvq3V37pkfILqVg"
+  },
+  {
     "title": "High school musical",
     "synopsis": "Troy y Gabriela se conocen en un karaoke durante las vacaciones. Troy es una estrella de baloncesto, y Gabriela es la nueva estudiante. Al volver al colegio, se presentan al casting para el musical de la escuela, pero deben superar varios obstáculos.",
     "year": 2006,
@@ -16,7 +125,7 @@
     "duration": 129,
     "genre": ["Drama"],
     "photo": "https://i.ibb.co/wJgkFvs/hombres-de-honor.jpg",
-    "trailer": "https://www.youtube.com/embed/E21xH5vg0yo",
+    "trailer": "-",
     "size": 3.58,
     "download": "https://terabox.com/s/1IZkLPqiJ-X1dENLapeKDKA"
   },
