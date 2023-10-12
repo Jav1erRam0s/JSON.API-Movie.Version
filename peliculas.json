@@ -1,5 +1,59 @@
 [
   {
+    "title": "8 millas",
+    "synopsis": "Jimmy Smith, 'Rabbit', vive en un barrio pobre de Detroit donde predomina la población negra. Él es un chico blanco apasionado por el hip-hop. Tiene problemas con su novia, pasa apuros económicos y sus relaciones con su madre no son muy armoniosas.",
+    "year": 2002,
+    "duration": 110,
+    "genre": ["Drama", "Música"],
+    "photo": "https://i.ibb.co/VVdJbQk/8-millas.jpg",
+    "trailer": "https://www.youtube.com/embed/TRZXaEl9fPo",
+    "size": 3.85,
+    "download": "https://terabox.com/s/1gvzfd9kUsSJHGHrvMmheoQ"
+  },
+  {
+    "title": "Amigos intocables",
+    "synopsis": "Un hombre tetraplégico y millonario contrata como cuidador a domicilio a Driss, un inmigrante de un barrio marginal recién salido de la cárcel. Aunque no parece la persona más indicada, congenian hasta forjar una amistad tan sólida como inesperada.",
+    "year": 2011,
+    "duration": 112,
+    "genre": ["Drama"],
+    "photo": "https://i.ibb.co/FsZCdfH/amigos-intocables.png",
+    "trailer": "https://www.youtube.com/embed/plyKlOXmTM0",
+    "size": 4.22,
+    "download": "https://terabox.com/s/10WrTP1_MGNDVNb7P1sQzSQ"
+  },
+  {
+    "title": "Atrapame si puedes",
+    "synopsis": "En los años sesenta, Frank W. Abagnale era un joven y escurridizo delincuente que adoptaba diversas identidades (médico, abogado o copiloto de líneas aéreas). Carl Hanratty, un agente del FBI, tenía la misión de seguir su pista y capturarlo para llevarlo ante la justicia, pero Frank siempre iba un paso por delante de él.",
+    "year": 2002,
+    "duration": 141,
+    "genre": ["Basada en hechos reales"],
+    "photo": "https://i.ibb.co/smgD1Pd/atrapame-si-puedes.jpg",
+    "trailer": "https://www.youtube.com/embed/EdF31ih7vHw",
+    "size": 3.08,
+    "download": "https://terabox.com/s/11m4GTfVKd0drjAgxQuZKSw"
+  },
+  {
+    "title": "Cobra",
+    "synopsis": "El teniente de policía Marion Cobretti, alias Cobra, conocido por su dureza y eficacia, tiene la misión de proteger a la testigo de un asesinato, especialmente cuando un infiltrado en el Departamento de Policía delata su escondite.",
+    "year": 1986,
+    "duration": 87,
+    "genre": ["Acción"],
+    "photo": "https://i.ibb.co/7VsbQgD/cobra.jpg",
+    "trailer": "https://www.youtube.com/embed/eIdiDPapE9A",
+    "size": 2.93,
+    "download": "https://terabox.com/s/1TGtNgMe01qAYqP-JV479eQ"
+  },
+  {
+    "title": "Coda",
+    "synopsis": "Ruby es el único miembro con audición de una familia de sordos. Cada mañana, antes de ir a clases, trabaja con sus padres y su hermano tratando de mantener a flote su negocio. En el coro del instituto, Ruby descubre su pasión por la música.",
+    "year": 2021,
+    "duration": 111,
+    "genre": ["Drama"],
+    "photo": "https://i.ibb.co/bKBMnLp/coda.jpg",
+    "size": 3.77,
+    "download": "https://terabox.com/s/1JJnnKMI5OkXfA8Y4r2Iv5g"
+  },
+  {
     "title": "El guardaespaldas",
     "synopsis": "Una cantante famosa que recibe constantemente cartas anónimas con amenazas de muerte contrata a un guardaespaldas profesional para que la proteja. Sin embargo, ella no está de acuerdo con los métodos empleados por su protector.",
     "year": 1992,
@@ -125,7 +179,7 @@
     "duration": 129,
     "genre": ["Drama"],
     "photo": "https://i.ibb.co/wJgkFvs/hombres-de-honor.jpg",
-    "trailer": "-",
+    "trailer": "https://www.youtube.com/embed/E21xH5vg0yo",
     "size": 3.58,
     "download": "https://terabox.com/s/1IZkLPqiJ-X1dENLapeKDKA"
   },
