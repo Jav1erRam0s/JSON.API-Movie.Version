@@ -1,5 +1,60 @@
 [
   {
+    "title": "Gremlins I",
+    "synopsis": "Un viajante busca un regalo especial para su hijo y encuentra uno en una tienda de Chinatown. El dueño de la tienda es reacio a venderle el 'mogwai', una tierna pero extraña criatura. Finalmente el hombre accede a venderle la criatura con la advertencia de que para cuidarlo debe seguir tres normas: no exponerlo a la luz del sol, no darle de comer después de medianoche y no mojarlo. Sin embargo, todo se tuerce cuando las tres reglas básicas son infringidas una tras otra.",
+    "year": 1984,
+    "duration": 106,
+    "genre": ["Terror", "Fantasía"],
+    "photo": "https://i.ibb.co/dtZqD4z/gremlins-i.jpg",
+    "trailer": "https://www.youtube.com/embed/XBEVwaJEgaA",
+    "size": 2.5,
+    "download": "https://terabox.com/s/1mKA7BN8ItdKhpeZuSQn2jg"
+  },
+  {
+    "title": "Gremlins II",
+    "synopsis": "Tras la muerte de su cuidador, un simpático Gremlin es llevado a un laboratorio donde se encuentra con su antiguo dueño. Debido a un despiste, el animalillo se moja, multiplicándose en temibles duendecillos que se apoderarán del rascacielos más moderno de Nueva York.",
+    "year": 1990,
+    "duration": 106,
+    "genre": ["Terror", "Fantasía"],
+    "photo": "https://i.ibb.co/QpJ9tQM/gremlins-ii.jpg",
+    "trailer": "https://www.youtube.com/embed/AdCp0qLqnCY",
+    "size": 2.84,
+    "download": "https://terabox.com/s/1R48aEY10c1yRHcM9X9zgpg"
+  },
+  {
+    "title": "Karate kid I",
+    "synopsis": "Daniel llega a Los Ángeles de la costa este y enfrenta la difícil tarea de hacer nuevos amigos. Sin embargo, se convierte en el blanco del acoso de los Cobras, una amenazadora pandilla de estudiantes de karate, cuando inicia una relación con Ali, la ex novia del líder de los Cobras. Deseoso de defenderse e impresionar a su nueva novia, pero temeroso de enfrentar a la peligrosa pandilla, Daniel le pide a su conserje Miyagi, un maestro de las artes marciales, que le enseñe karate.",
+    "year": 1984,
+    "duration": 126,
+    "genre": ["Acción"],
+    "photo": "https://i.ibb.co/pKNLY34/karate-kid-i.jpg",
+    "trailer": "https://www.youtube.com/embed/yDi3an8WgN4",
+    "size": 3.5,
+    "download": "https://terabox.com/s/1eLq41JPqiIuk90h4xGniiQ"
+  },
+  {
+    "title": "Karate kid II",
+    "synopsis": "Daniel acompaña a Miyagi a su tierra, Okinawa, y allí aprende cosas sobre el pasado secreto de su maestro. Para Miyagi, es la oportunidad de ver a su padre por última vez y de reanudar su romance con el amor de su infancia. Sin embargo, su regreso también reavivará su vieja enemistad con Sato y arrastrará a Daniel a un choque de culturas y combates donde el precio del honor es la propia vida.",
+    "year": 1986,
+    "duration": 113,
+    "genre": ["Acción"],
+    "photo": "https://i.ibb.co/R9gRhpN/karate-kid-ii.png",
+    "trailer": "https://www.youtube.com/embed/ksWefA8f7_g",
+    "size": 2.82,
+    "download": "https://terabox.com/s/1Q6tF4vwTefvUAdEGML01Hw"
+  },
+  {
+    "title": "Karate kid III",
+    "synopsis": "Daniel LaRusso regresa de Okinawa con la esperanza de poder llevar una pacífica vida trabajando con su tutor Miyagi en su tienda de bonsáis. Sin embargo, la tranquilidad se ve truncada cuando es chantajeado para que compita contra Mike Barnes. Su maestro se niega a ayudarlo, así que el joven se busca otro entrenador, que resulta ser un hombre violento que sólo quiere formarlo para matar. Cuando Daniel se da cuenta de su error, intenta volver con Miyagi.",
+    "year": 1989,
+    "duration": 113,
+    "genre": ["Acción"],
+    "photo": "https://i.ibb.co/zXGBxM4/karate-kid-iii.png",
+    "trailer": "https://www.youtube.com/embed/0YFWFJOvjwQ",
+    "size": 3.39,
+    "download": "https://terabox.com/s/1Lz_QROCiRIO-lkgYxhdfHg"
+  },
+  {
     "title": "10 cosas que odio de ti",
     "synopsis": "Las hermanas Stratford son muy distintas. La guapa y popular Bianca nunca ha salido con un chico, pero lo está deseando, y Kat, su hermana mayor, es arisca y con mal genio. Su padre no dejará que Bianca tenga novio hasta que Kat consiga uno.",
     "year": 1999,
