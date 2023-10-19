@@ -1,5 +1,16 @@
 [
   {
+    "title": "Rocky V",
+    "synopsis": "Al volver a casa tras su último triunfo, Rocky se da cuenta de que toda la fortuna lograda durante todos sus combates ha desaparecido en manos de su asesor financiero. Para empeorar aún más las cosas, las heridas sufridas durante su carrera como boxeador le obligan a retirarse del ring.",
+    "year": 1990,
+    "duration": 104,
+    "genre": ["Drama"],
+    "photo": "https://i.ibb.co/nzmsR7q/rocky-v.jpg",
+    "trailer": "https://www.youtube.com/embed/WH-5u7UevQw",
+    "size": 3.58,
+    "download": "https://terabox.com/s/173iB9440ZIljYXTlt6lVyQ"
+  },
+  {
     "title": "El cuervo",
     "synopsis": "Eric Draven, un joven guitarrista de rock, es brutalmente asesinado junto a su prometida Shelly. Un año después, Eric vuelve a la Tierra, guiado por un cuervo negro, en busca de venganza.",
     "year": 1994,
@@ -22,15 +33,15 @@
     "download": "https://terabox.com/s/1sRa3Jkc7Y6wGpiMCtT3ZNQ"
   },
   {
-    "title": "Encerrado",
+    "title": "Condena brutal",
     "synopsis": "Frank Leone es trasladado a una cárcel de máxima seguridad. La orden viene del director Drumgoole, con el que tiene una cuenta pendiente.",
     "year": 1989,
     "duration": 115,
     "genre": ["Acción"],
-    "photo": "https://i.ibb.co/1vLgcY6/encerrado.jpg",
+    "photo": "https://i.ibb.co/3sK43t6/condena-brutal.jpg",
     "trailer": "https://www.youtube.com/embed/1mRBoP0HBaE",
-    "size": 1.84,
-    "download": "https://terabox.com/s/1aQymFu42sGDvDYzl7Kzl4g"
+    "size": 3.73,
+    "download": "https://terabox.com/s/1xS4OuMqWXsfzSaXT3QWjfg"
   },
   {
     "title": "Proyecto X",
