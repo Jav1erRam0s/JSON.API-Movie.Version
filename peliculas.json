@@ -1,5 +1,27 @@
 [
   {
+    "title": "Apolo 13",
+    "synopsis": "El Apolo XIII inicia su viaje a la Luna en abril de 1970. Cuando está a punto de llegar a su destino, se produce una explosión en el espacio que les hace perder oxígeno y, además, cambia el rumbo de la nave. La situación de los tripulantes se hace desesperada cuando el oxígeno empieza a agotarse. Mientras tanto, el mundo entero vive pendiente del desenlace de tan angustiosa aventura.",
+    "year": 1995,
+    "duration": 140,
+    "genre": ["Drama", "Basada en hechos reales"],
+    "photo": "https://i.ibb.co/hm69Yyh/apolo-13.jpg",
+    "trailer": "https://www.youtube.com/embed/KtEIMC58sZo",
+    "size": 4.24,
+    "download": "https://terabox.com/s/12tB2_a5-XU0-99c1jP0qkQ"
+  },
+  {
+    "title": "Cementerio de mascotas",
+    "synopsis": "Una serie de acontecimientos extraños tienen lugar después de la muerte del gato de la familia Creed. Los miembros se dan cuenta poco a poco de que un antiguo cementerio, que se encuentra en la parte trasera de la casa, puede tener conexión con estos eventos.",
+    "year": 1989,
+    "duration": 103,
+    "genre": ["Terror"],
+    "photo": "https://i.ibb.co/gSPH8Sq/cementerio-de-mascotas.png",
+    "trailer": "https://www.youtube.com/embed/OP1RvkrIsWo",
+    "size": 3.33,
+    "download": "https://terabox.com/s/1fo-bKPwL6J0iH2BW7_QQZw"
+  },
+  {
     "title": "Rocky V",
     "synopsis": "Al volver a casa tras su último triunfo, Rocky se da cuenta de que toda la fortuna lograda durante todos sus combates ha desaparecido en manos de su asesor financiero. Para empeorar aún más las cosas, las heridas sufridas durante su carrera como boxeador le obligan a retirarse del ring.",
     "year": 1990,
