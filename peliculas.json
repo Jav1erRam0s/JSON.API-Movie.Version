@@ -1,5 +1,81 @@
 [
   {
+    "title": "Lo que el viento se llevo",
+    "synopsis": "Georgia, 1861. En la elegante mansión sureña de Tara, vive Scarlett O'Hara, la joven más bella, caprichosa y egoísta de la región. Ella suspira por el amor de Ashley, pero él está prometido con su prima, la dulce y bondadosa Melanie. En la última fiesta antes del estallido de la Guerra, Scarlett conoce al cínico y apuesto Rhett Butler, un vividor arrogante y aventurero, que no tiene ninguna intención de participar en la contienda. Lo único que él desea es hacerse rico y conquistar a Scarlett.",
+    "year": 1939,
+    "duration": 478,
+    "genre": ["Romance"],
+    "photo": "https://i.ibb.co/ZcyT8LZ/lo-que-el-viento-se-llevo.jpg",
+    "trailer": "https://www.youtube.com/embed/8mM8iNarcRc",
+    "size": 5.42,
+    "download": "https://terabox.com/s/1PJ-OQZeMB-0WAmIzXTmEeg"
+  },
+  {
+    "title": "Los puentes de madison",
+    "synopsis": "La apacible pero aburrida vida de Francesca Johnson, un ama de casa que vive en una granja con su familia, se ve alterada con la llegada de Robert Kincaid, un veterano fotógrafo de la revista National Geographic, que visita el condado de Madison para fotografiar sus viejos puentes. Cuando Francesca invita a Robert a cenar, un amor verdadero y una pasión desconocida nacerá entre ellos.",
+    "year": 1995,
+    "duration": 135,
+    "genre": ["Drama", "Romance"],
+    "photo": "https://i.ibb.co/7NbfLVZ/los-puentes-de-madison.jpg",
+    "trailer": "https://www.youtube.com/embed/Up-oN4NtvbM",
+    "size": 4.57,
+    "download": "https://terabox.com/s/16VzX1dzsEt8WJ2kRJs490w"
+  },
+  {
+    "title": "Enemigo al acecho",
+    "synopsis": "Un francotirador ruso y su homólogo alemán tratan de apuntarse mutuamente durante la batalla de Estalingrado.",
+    "year": 2001,
+    "duration": 131,
+    "genre": ["Bélico"],
+    "photo": "https://i.ibb.co/jr2zWvM/enemigo-al-acecho.jpg",
+    "trailer": "https://www.youtube.com/embed/U0190AXp-ps",
+    "size": 4.44,
+    "download": "https://terabox.com/s/1z8zycJp440BkvHfqVsaAlg"
+  },
+  {
+    "title": "Pequeña miss sunshine",
+    "synopsis": "Olive, una niña gordita y gafotas, vive en el seno de una familia un tanto peculiar: su abuelo esnifa cocaína, su padre se siente un fracasado, su tío se está recuperando de un suicidio frustrado y su hermano mayor lee a Nietzsche y guarda un mutismo absoluto. Cuando Olive decide presentarse a un concurso de belleza en California, toda la familia emprende un divertido viaje en su destartalada furgoneta para ver el debut de la pequeña.",
+    "year": 2006,
+    "duration": 101,
+    "genre": ["Comedia"],
+    "photo": "https://i.ibb.co/hmw2HmF/pequena-miss-sunchine.jpg",
+    "trailer": "https://www.youtube.com/embed/FXzQFIoZ6lM",
+    "size": 3.38,
+    "download": "https://terabox.com/s/1hPyDE4IzYcuP6U35xF3jKA"
+  },
+  {
+    "title": "El gran dictador",
+    "synopsis": "Un humilde barbero judío tiene un parecido asombroso con el dictador de Tomania, un tirano que culpa a los judíos de la crítica situación que atraviesa el país. Un día, sus propios guardias lo confunden con el barbero y lo llevan a un campo de concentración. Al mismo tiempo, al pobre barbero lo confunden con el tirano. Una incontestable obra maestra.",
+    "year": 1940,
+    "duration": 125,
+    "genre": ["Comedia"],
+    "photo": "https://i.ibb.co/PYZ8Yw9/el-gran-dictador.jpg",
+    "size": 3.81,
+    "download": "https://terabox.com/s/1zWXH1VGbKSGu6NrFfWxXgQ"
+  },
+  {
+    "title": "Apolo 13",
+    "synopsis": "El Apolo XIII inicia su viaje a la Luna en abril de 1970. Cuando está a punto de llegar a su destino, se produce una explosión en el espacio que les hace perder oxígeno y, además, cambia el rumbo de la nave. La situación de los tripulantes se hace desesperada cuando el oxígeno empieza a agotarse. Mientras tanto, el mundo entero vive pendiente del desenlace de tan angustiosa aventura.",
+    "year": 1995,
+    "duration": 140,
+    "genre": ["Drama", "Basada en hechos reales"],
+    "photo": "https://i.ibb.co/hm69Yyh/apolo-13.jpg",
+    "trailer": "https://www.youtube.com/embed/KtEIMC58sZo",
+    "size": 4.24,
+    "download": "https://terabox.com/s/12tB2_a5-XU0-99c1jP0qkQ"
+  },
+  {
+    "title": "Cementerio de mascotas",
+    "synopsis": "Una serie de acontecimientos extraños tienen lugar después de la muerte del gato de la familia Creed. Los miembros se dan cuenta poco a poco de que un antiguo cementerio, que se encuentra en la parte trasera de la casa, puede tener conexión con estos eventos.",
+    "year": 1989,
+    "duration": 103,
+    "genre": ["Terror"],
+    "photo": "https://i.ibb.co/gSPH8Sq/cementerio-de-mascotas.png",
+    "trailer": "https://www.youtube.com/embed/OP1RvkrIsWo",
+    "size": 3.33,
+    "download": "https://terabox.com/s/1fo-bKPwL6J0iH2BW7_QQZw"
+  },
+  {
     "title": "Rocky V",
     "synopsis": "Al volver a casa tras su último triunfo, Rocky se da cuenta de que toda la fortuna lograda durante todos sus combates ha desaparecido en manos de su asesor financiero. Para empeorar aún más las cosas, las heridas sufridas durante su carrera como boxeador le obligan a retirarse del ring.",
     "year": 1990,
