@@ -1,6 +1,17 @@
 [
   {
-    "title": "Wicker Park",
+    "title": "El aguador",
+    "synopsis": "Un joven criado en un pueblo interior de Estados Unidos encuentra trabajo como aguador en un equipo universitario de fútbol americano. La vida del muchacho cambiará radicalmente con la llegada de un nuevo entrenador al equipo.",
+    "year": 1998,
+    "duration": 90,
+    "genre": ["Comedia"],
+    "photo": "https://i.ibb.co/BKGcXT2/el-aguador.jpg",
+    "trailer": "https://www.youtube.com/embed/vVLvkqfTRVQ",
+    "size": 7.63,
+    "download": "https://terabox.com/s/1IiI-u4en-Ie-ebWBlhD5_Q"
+  },
+  {
+    "title": "Wicker park",
     "synopsis": "Matt encuentra en Chicago a la mujer de su vida, Lisa, una atractiva bailarina de danza moderna, rubia, hermosa, desenfadada y misteriosa, a quien captura en un video accidentalmente en la acera de enfrente y decide seguirla para lograr una cita.",
     "year": 2004,
     "duration": 114,
