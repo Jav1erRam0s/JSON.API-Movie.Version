@@ -1,5 +1,27 @@
 [
   {
+    "title": "Me enamore de un maniqui I",
+    "synopsis": "Cuando Jonathan crea un maniquí no sabe que éste cobrará vida, que fue una antigua mujer egipcia y que su vida va a cambiar para siempre.",
+    "year": 1987,
+    "duration": 90,
+    "genre": ["Comedia", "Romance"],
+    "photo": "https://i.ibb.co/8YrsB6P/me-enamore-de-un-maniqui-i.jpg",
+    "trailer": "https://www.youtube.com/embed/chAGEg8LEIg",
+    "size": 2.26,
+    "download": "https://terabox.com/s/1QBxtTaDvTJp26nxj_0lO0g"
+  },
+  {
+    "title": "Me enamore de un maniqui II",
+    "synopsis": "Un embrujo convierte a una hermosa campesina en una escultura de madera por enamorarse de un príncipe heredero. El hechizo finalizará cuando encuentre su verdadero alter-ego.",
+    "year": 1991,
+    "duration": 95,
+    "genre": ["Comedia", "Romance"],
+    "photo": "https://i.ibb.co/0yhV99b/me-enamore-de-un-maniqui-ii.jpg",
+    "trailer": "https://www.youtube.com/embed/qKE1hbfmgTA",
+    "size": 2.69,
+    "download": "https://terabox.com/s/1fOg3TwuV_EW4TDgSR7tJlQ"
+  },
+  {
     "title": "El aguador",
     "synopsis": "Un joven criado en un pueblo interior de Estados Unidos encuentra trabajo como aguador en un equipo universitario de fútbol americano. La vida del muchacho cambiará radicalmente con la llegada de un nuevo entrenador al equipo.",
     "year": 1998,
