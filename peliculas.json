@@ -1,10 +1,32 @@
 [
   {
-    "title": "Donnie Darko",
+    "title": "Matame suavemente",
+    "synopsis": "Desde el primer momento, la joven Alice pone sus ojos en Adam, un misterioso y atractivo extraño. Ambos se embarcarán en una apasionada relación, llena de secretos y riesgo.",
+    "year": 2002,
+    "duration": 100,
+    "genre": ["Misterio", "Suspenso"],
+    "photo": "https://i.ibb.co/3hwc6Zq/matame-suavemente.jpg",
+    "trailer": "https://www.youtube.com/embed/RLUffv4c6rw",
+    "size": 3.38,
+    "download": "https://terabox.com/s/15ovomoHhj8_yCbF7NoXAdA"
+  },
+  {
+    "title": "Belleza americana",
+    "synopsis": "Lester Burnham es un cuarentón en crisis, cansado de su trabajo y de su mujer, que despierta de su letargo cuando conoce a la atractiva amiga de su hija, a la que intentará impresionar a toda costa.",
+    "year": 1999,
+    "duration": 122,
+    "genre": ["Romance"],
+    "photo": "https://i.ibb.co/BZz5Z6b/belleza-americana.jpg",
+    "trailer": "https://www.youtube.com/embed/GqXz2NeSpY8",
+    "size": 3.37,
+    "download": "https://terabox.com/s/1L8mdonEJgeTGBQhUb_9E3A"
+  },
+  {
+    "title": "Donnie darko",
     "synopsis": "Donnie es un chico americano dotado de gran inteligencia e imaginación. Tras escapar milagrosamente de una muerte casi segura, comienza a sufrir alucinaciones que lo llevan a actuar como nunca hubiera imaginado y a descubrir un mundo insólito a su alrededor.",
     "year": 2001,
     "duration": 113,
-    "genre": ["Ciencia ficción"],
+    "genre": ["Ciencia ficción", "Suspenso"],
     "photo": "https://i.ibb.co/c1yH6BX/donnie-darko.jpg",
     "trailer": "https://www.youtube.com/embed/rPeGaos7DB4",
     "size": 3.79,
@@ -19,7 +41,7 @@
     "photo": "https://i.ibb.co/8YrsB6P/me-enamore-de-un-maniqui-i.jpg",
     "trailer": "https://www.youtube.com/embed/chAGEg8LEIg",
     "size": 2.26,
-    "download": "https://terabox.com/s/1QBxtTaDvTJp26nxj_0lO0g"
+    "downloa": "https://terabox.com/s/1QBxtTaDvTJp26nxj_0lO0g"
   },
   {
     "title": "Me enamore de un maniqui II",
