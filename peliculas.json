@@ -1,5 +1,38 @@
 [
   {
+    "title": "Erase una vez en Mexico",
+    "synopsis": "Un temible narcotraficante secuestra al presidente de México e impone como condición para liberarlo enfrentarse al Mariachi para ajustar viejas cuentas.",
+    "year": 2003,
+    "duration": 101,
+    "genre": ["Acción", "Wéstern"],
+    "photo": "https://i.ibb.co/PrGn9tw/erase-una-vez-en-mexico.jpg",
+    "trailer": "https://www.youtube.com/embed/7JrCqCz6CBA",
+    "size": 2.30,
+    "download": "https://terabox.com/s/1jwYCFsX1rOERkUlQPg5OFg"
+  },
+  {
+    "title": "La balada del pistolero",
+    "synopsis": "El Mariachi vuelve para enfrentarse a los asesinos de la mujer que amaba, responsables también de la herida que le impide seguir tocando la guitarra. Convertido en un hombre de acción y pertrechado con todo tipo de armas, el Mariachi llega al pueblo, tomado por la banda de traficantes que hizo que sus sueños se derrumbaran.",
+    "year": 1995,
+    "duration": 104,
+    "genre": ["Acción", "Wéstern"],
+    "photo": "https://i.ibb.co/G7jFdyD/la-balada-del-pistolero.jpg",
+    "trailer": "https://www.youtube.com/embed/G3_vC5kSU6A",
+    "size": 2.14,
+    "download": "https://terabox.com/s/1fXJaGj56YYiNTxjb4DA5cw"
+  },
+  {
+    "title": "Papa por siempre",
+    "synopsis": "Daniel Hillard es considerado por sus hijos como un padre maravilloso, aunque su mujer está cansada de que se comporte también como un niño. Después de un accidentado divorcio, Daniel intenta conseguir la custodia de sus tres hijos pero el juez no se la concede. Entonces decide disfrazarse de mujer mayor y trabajar como niñera en la casa de su ex mujer para pasar más tiempo con ellos. Este nuevo rol no sólo le permite compartir más tiempo con sus hijos sino que lo hará mejorar como padre.",
+    "year": 1993,
+    "duration": 125,
+    "genre": ["Infantil", "Comedia"],
+    "photo": "https://i.ibb.co/StStps0/papa-por-siempre.png",
+    "trailer": "https://www.youtube.com/embed/e3PoEWqG16U",
+    "size": 4.22,
+    "download": "https://terabox.com/s/1t_xq-dAF4jqKma8t6fLz2Q"
+  },
+  {
     "title": "Los 7 magnificos",
     "synopsis": "El pueblo de Rose Creek se encuentra bajo el control devastador del industrial Bartholomew Bogue, así que sus desesperados habitantes solicitan la protección de siete forajidos, cazarrecompensas, jugadores y asesinos a sueldo: Sam Chisolm, Josh Faraday, Goodnight Robicheaux, Jack Horne, Billy Rocks, Vasquez y Red Harvest. Mientras se preparan para el violento enfrentamiento que saben que se producirá, estos siete mercenarios se encontrarán luchando por algo más que dinero.",
     "year": 2016,
@@ -1685,3 +1718,4 @@
     "download": "https://terabox.com/s/1L-9aa5uGRZXZjQZoA0Gg-A"
   }
 ]
+ 
